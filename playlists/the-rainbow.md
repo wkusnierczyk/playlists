@@ -92,8 +92,6 @@ A deeper unity emerges from what these artists share beyond mood: a relationship
 
 ### Connections and Patterns
 
-The songs in this playlist were not selected all at once but submitted in batches, and the connections between them only became fully visible as the collection grew. What follows are observations on the patterns that emerged.
-
 **A philosophy of retreat.** Nearly every artist here has, at some point, deliberately walked away from commercial expectation in favour of something more honest: Hollis abandoning synth-pop, Beck abandoning irony, Bowie fleeing LA for Berlin, Harvey reinventing herself with every record, Beefheart writing a tender love song on his "worst" album. Even the newer artists — GoGo Penguin, Ishmael Ensemble, Portico Quartet — are bands who resist easy genre classification because the music comes first and the labels come after.
 
 **The Talk Talk web.** The Talk Talk connection runs deeper than any other. The playlist traces the band's complete arc: "Life's What You Make It" (their commercial peak), "I Don't Believe in You" (the bridge between pop and post-rock), "The Rainbow" (Spirit of Eden's radical opening), "John Cope" (a B-side lost between albums), and then Mark Hollis's solo tracks "The Gift" and "The Watershed" (the final refinement into silence). Add Beth Gibbons and Rustin Man's "Tom the Model" — a collaboration between Portishead's singer and Talk Talk's bassist Paul Webb, with Talk Talk drummer Lee Harris also contributing — and you have the most comprehensive portrait of a single artistic universe in the collection. Hollis also used "John Cope" as a pseudonym when he recorded a piano piece for the 1998 album AV 1, making the song title itself a kind of ghost-identity.
