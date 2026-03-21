@@ -9,6 +9,7 @@ A curated collection of 50 songs spanning post-rock, trip-hop, folk, jazz, elect
 - [Songs](#songs)
 - [Artists](#artists)
 - [Albums](#albums)
+- [Extensions](#extensions)
 
 <sub>**Navigation:** ↑↑ table of contents · ↑ parent section · ← previous at this level · ↓ subsection · next at this level →</sub>
 
@@ -88,6 +89,32 @@ What makes the playlist more than a mood board is the way individual tracks push
 
 A deeper unity emerges from what these artists share beyond mood: a relationship to craft that privileges texture over display, atmosphere over assertion, and emotional honesty over technical spectacle. John Martyn's Echoplex-drenched guitar, Melanie De Biasio's breathed-out jazz, GoGo Penguin's piano trio reimagined through electronic ears, The Blue Nile's meticulous nocturnal pop, Kate Bush's domestic sorcery — each represents a different solution to the same problem: how to make music that holds the weight of feeling without raising its voice. The playlist is, finally, a map of that shared impulse, traced across genres, decades, and continents, beginning and ending in the conviction that the most powerful music is often the quietest.
 
+
+### Connections and Patterns
+
+The songs in this playlist were not selected all at once but submitted in batches, and the connections between them only became fully visible as the collection grew. What follows are observations on the patterns that emerged.
+
+**A philosophy of retreat.** Nearly every artist here has, at some point, deliberately walked away from commercial expectation in favour of something more honest: Hollis abandoning synth-pop, Beck abandoning irony, Bowie fleeing LA for Berlin, Harvey reinventing herself with every record, Beefheart writing a tender love song on his "worst" album. Even the newer artists — GoGo Penguin, Ishmael Ensemble, Portico Quartet — are bands who resist easy genre classification because the music comes first and the labels come after.
+
+**The Talk Talk web.** The Talk Talk connection runs deeper than any other. The playlist traces the band's complete arc: "Life's What You Make It" (their commercial peak), "I Don't Believe in You" (the bridge between pop and post-rock), "The Rainbow" (Spirit of Eden's radical opening), "John Cope" (a B-side lost between albums), and then Mark Hollis's solo tracks "The Gift" and "The Watershed" (the final refinement into silence). Add Beth Gibbons and Rustin Man's "Tom the Model" — a collaboration between Portishead's singer and Talk Talk's bassist Paul Webb, with Talk Talk drummer Lee Harris also contributing — and you have the most comprehensive portrait of a single artistic universe in the collection. Hollis also used "John Cope" as a pseudonym when he recorded a piano piece for the 1998 album AV 1, making the song title itself a kind of ghost-identity.
+
+**A geography of the margins.** Manchester (Gondwana Records, Halsall, GoGo Penguin), Bristol (Ishmael Ensemble, Massive Attack, Portishead's shadow over Beth Gibbons), Dorset (Harvey), Sheffield (Hawley), London's margins (Garwood, The Clientele, Portico Quartet), and then the wider world — Israel (Kutiman), Belgium (De Biasio), Paris (Air, Kate Stables's adopted home), Berlin (Bowie), the Texan desert (Cooder), Laurel Canyon (Wilson, Kirk of Timber Timbre, the original CSNY scene Nash came from). These are places where interesting things happen slightly away from the spotlight.
+
+**Laurel Canyon keeps appearing.** Jonathan Wilson literally lived and recorded there. Taylor Kirk went there to write Hot Dreams. Beck's Sea Change is haunted by LA. Nash was part of the original Canyon scene in the early '70s. Wilson even cited Talk Talk as an influence — the Laurel Canyon revivalist and the post-rock minimalist sharing a commitment to letting music breathe.
+
+**The Bristol connection.** Massive Attack emerged from the Wild Bunch sound system; a young Geoff Barrow was in the crowd at a 1985 Wild Bunch gig at the Arnolfini Gallery, and would go on to form Portishead. Beth Gibbons left Portishead to make Out of Season with Paul Webb. Ishmael Ensemble continues the city's tradition of bass-heavy atmospheric music. The Spoils connects Bristol to LA via Hope Sandoval — two artists who treat silence as an instrument.
+
+**Danny Thompson as invisible pillar.** The Pentangle bassist also played on both John Martyn tracks. His double bass connects folk to jazz to post-rock across five decades of British music. When asked about Martyn's lyric "You curl around me like a fern in the spring," Thompson said: "Who else could write something so beautiful? I can't, but I can respond to it." That may be the most honest thing any musician has ever said about collaboration.
+
+**Disappearance as art form.** Kate Bush writes a spell for vanishing. Mark Hollis recorded what might be the quietest album ever made, then disappeared from music entirely. Beth Hirsch sang two of the most beautiful vocals on Moon Safari, then faded from public view. Taylor Kirk demands the lights be killed before he'll play. Hope Sandoval prefers to sing in near-darkness. The Blue Nile took years between albums. Even the Talk Talk B-side "John Cope" is a kind of disappearance — a song too good for two albums, released in the margins, existing in a liminal space between eras.
+
+**Protest disguised as beauty.** Cass McCombs's "Bum Bum Bum" wraps its rage about racism in a groove so warm you could mistake it for a love song. "Go Down Easy" is named like a surrender but is actually a declaration of radical emotional honesty. Radiohead's "Codex" sounds like a requiem but is really an instruction to let go. Even "New Moon" — the darkest phase of the lunar cycle — is named for what's about to be born, not what's disappeared.
+
+**The Nigel Godrich thread.** The producer who shaped Beck's Sea Change (both "The Golden Age" and "Paper Tiger") also produced Radiohead's King of Limbs ("Codex"). His fingerprints are on music that prioritises space, patience, and emotional weight over spectacle.
+
+**Spiritual jazz lineage.** The tradition of Alice Coltrane and Pharoah Sanders runs through Matthew Halsall (who heard Pharoah Sanders's "You've Got to Have Freedom" at a Mr Scruff DJ set and changed direction), into Mélanie De Biasio (Phil Selway compared her work to "Billie Holiday walking into Mark Hollis's solo record sessions"), and through Portico Quartet's meditative explorations on Gondwana Records.
+
+
 ## Songs
 <sub>[↑↑ TOC](#table-of-contents) · [← Guide](#guide) · [↓ Afro Blue](#afro-blue) · [Artists →](#artists)</sub>
 
@@ -106,7 +133,9 @@ Melanie De Biasio's version of the Mongo Santamaria classic reimagines the jazz 
 
 **Artist:** [Air and Beth Hirsch](#air-and-beth-hirsch) · **Album:** [Moon Safari](#moon-safari)
 
-A standout vocal track from Air's Moon Safari, "All I Need" features the voice of American singer Beth Hirsch, whose warm, breathy delivery perfectly complements the duo's lush production. The song's gentle melody floats over pillowy synthesisers, bass, and a languid rhythm, creating one of the album's most emotionally direct moments. Hirsch's lyrics speak of dependency and devotion with a disarming simplicity, while Dunckel and Godin's arrangement wraps the sentiment in a cocoon of analogue warmth.
+A bossa nova-inflected lullaby of surrender and contentment. The lyrics are simple, almost mantric: "All I need is a little time / To get behind this sun and cast my weight." Dunckel described it as "more like bossa nova," explaining that they'd made an instrumental and felt it needed a singer — when Hirsch arrived, "it definitely sounded much better." They wanted a conclusion that was "mellow and a little bit dark — melancholic." Rolling Stone called it "a tragic café ballad," capturing something important: beneath the warmth there's an undertow of longing, as if the peace described is wished for rather than achieved. The track was selected for the book 1001 Songs You Must Hear Before You Die.
+
+Beth Hirsch, born in Tampa, Florida in 1967, had moved to Paris in 1991 to work as an au pair and discovered her singing talent in the local bohemian community. She happened to be living in Montmartre at the same time as Godin and Dunckel. Godin heard a demo of hers, invited her to record, and she wrote the lyrics and melody herself. She toured with Air throughout Europe and the US, then settled in London, and currently lives in Portugal. Despite being so closely associated with Moon Safari, she was never a permanent member — the duo later moved away from guest vocalists entirely.
 
 ### Alone in Kyoto
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← All I Need](#all-i-need) · [6AM →](#6am)</sub>
@@ -114,7 +143,9 @@ A standout vocal track from Air's Moon Safari, "All I Need" features the voice o
 
 **Artist:** [Air](#air) · **Album:** [Talkie Walkie](#talkie-walkie)
 
-From Air's 2004 album Talkie Walkie, "Alone in Kyoto" gained additional fame through its inclusion in Sofia Coppola's film Lost in Translation. The track is a delicate, melancholic instrumental piece that perfectly captures the feeling of solitary contemplation in a foreign city. Gentle piano, warm synthesiser pads, and subtle electronic textures create an atmosphere of quiet beauty and wistful longing. It represents some of Air's most emotionally affecting work, achieving profound feeling through simplicity.
+Sofia Coppola, who had worked with Air on The Virgin Suicides, asked them for a song for Lost in Translation. "Alone in Kyoto" was written specifically for the scene where Scarlett Johansson's character walks alone through Japanese gardens in Kyoto. It's almost entirely instrumental — piano, acoustic guitar, delicate bells, a thrumming heartbeat of electronics — capturing the specific emotional state of being a stranger in a beautiful place, simultaneously liberated and bereft. One retrospective described it as "a stunning sonic garden" that avoids obvious Western gaze by using Japanese influences sparingly but gracefully. A listener who'd spent two years in Japan wrote that the song is "very, very representative of the way you sometimes feel while living there."
+
+Air weren't sure whether to include it on the album, but ultimately placed it as the final track — a sort of outro. This is the third Air track in the playlist, and together the three map a beautiful trajectory: "Le Soleil Est Près De Moi" (1997, the bedroom prototype), "All I Need" / "Talisman" (1998, the breakthrough), and "Alone in Kyoto" (2004, the mature distillation). Each one more still, more refined, more comfortable with silence.
 
 ### 6AM
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Alone in Kyoto](#alone-in-kyoto) · [As I Walk →](#as-i-walk)</sub>
@@ -138,7 +169,9 @@ From Matthew Halsall's album Into Forever, recorded with The Gondwana Orchestra,
 
 **Artist:** [Timber Timbre](#timber-timbre) · **Album:** [Hot Dreams](#hot-dreams)
 
-From Timber Timbre's 2014 album Hot Dreams, "Beat the Drum Slowly" is a cinematic, brooding track from the Canadian group led by Taylor Kirk. The song opens with a dramatic, almost Morricone-like arrangement before settling into a slow, hypnotic groove driven by Kirk's deep, resonant voice. Vintage synthesisers, tremolo guitar, and a haunted atmosphere create a sound that evokes David Lynch soundtracks and desert noir. The track exemplifies Timber Timbre's gift for creating unsettling beauty from darkness.
+The opening track of Hot Dreams, and an immediate statement of intent. The lyrics conjure faded Hollywood glamour: "Deco tower, rainbow fountain showers / Crystal columns, silver tabloid entry / The celebrity cemetery / A faded trail of a golden age / That flickered out into celluloid ashes / Phantasms fantastic." Then the refrain: "Outran the avalanche / To the cameras rolling / We beat the drum slowly." The title phrase comes from a traditional funerary custom — a slow drumbeat accompanying a coffin — and the song applies it to the death of a culture, celebrity itself becoming a graveyard. Drowned in Sound called it a "perfect example" of the band's tension between gentleness and menace: the drums "make the least boisterous entrance possible and the song ends up stumbling upon its tempos. Everything turns menacing and very Ennio Morricone."
+
+Taylor Kirk left Ontario for Los Angeles to write Hot Dreams, inspired by Laurel Canyon — a place known for Zappa, Joni Mitchell, and Jim Morrison. The album was shortlisted for the 2014 Polaris Music Prize. Timber Timbre's name refers to early recordings made in a timber-framed cabin in the wooded outskirts of Bobcaygeon, Ontario. Their sound has been described as "beautifully restrained blues from an alternate universe." Billboard described the album as sounding like "psychedelic cowboy Lee Hazlewood with fever nightmares, an unopened bottle of absinthe on the nightstand." At a SXSW show, Kirk asked the venue to kill the overhead lights: "They're fucking awful." The stage went black, and the band eased on.
 
 ### Better Days
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Beat the Drum Slowly](#beat-the-drum-slowly) · [Blue →](#blue)</sub>
@@ -146,7 +179,9 @@ From Timber Timbre's 2014 album Hot Dreams, "Beat the Drum Slowly" is a cinemati
 
 **Artist:** [Graham Nash](#graham-nash) · **Album:** [Songs For Beginners](#songs-for-beginners)
 
-From Graham Nash's 1971 solo debut Songs For Beginners, "Better Days" is a warmly optimistic song that reflects the hopeful spirit of the early 1970s singer-songwriter movement. Nash's clear, melodic voice delivers a message of resilience and forward-looking positivity over a gentle arrangement of acoustic guitar, piano, and tasteful orchestration. Recorded at various studios in San Francisco, the album, and this track in particular, captures Nash at his most personally direct and musically accessible.
+"When your love has moved away / You must face yourself and say / I remember better days / Don't you cry 'cause she is gone / She is only moving on / Chasing mirrors through a haze." Nash explained: "Stephen and I met Rita Coolidge on the very same night, when we recorded 'Love the One You're With.' I fell for Rita, and so did Stephen. I've always been a shy person, so I didn't make the move that I wanted to. But Stephen did." The line "Though you say you're where you want to be, you're not where you belong" was directed at Stills, about Rita. So it's a song simultaneously about lost love and about telling your friend — gently — that the woman he's with should be with you. That duality gives "Better Days" its distinctive ache.
+
+From Nash's 1971 solo debut, released in the wake of CSNY's Déjà Vu. The album directly followed his breakup with Joni Mitchell. The guest list is extraordinary: David Crosby, Jerry Garcia, Phil Lesh, Dave Mason, David Lindley, Rita Coolidge, and Neil Young — who appeared under his pseudonym "Joe Yankee," playing piano on "Better Days." Nash — born in Blackpool, raised in Salford — was a founding member of The Hollies before emigrating to California. His gift was always for melody and directness: where Crosby was harmonically adventurous and Young was raw, Nash wrote songs that felt like letters to friends.
 
 ### Blue
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Better Days](#better-days) · [Bo's Veranda →](#bos-veranda)</sub>
@@ -186,7 +221,9 @@ A highlight from GoGo Penguin's 2016 album Man Made Object, "Branches Break" dem
 
 **Artist:** [Cass McCombs](#cass-mccombs) · **Album:** [Mangy Love](#mangy-love)
 
-From Cass McCombs' 2016 album Mangy Love, "Bum Bum Bum" is a characteristically idiosyncratic track from one of America's most consistently intriguing singer-songwriters. McCombs weaves together folk, rock, and psychedelic elements with lyrics that are simultaneously playful and enigmatic. The song features his warm, slightly detached vocal style over an arrangement that shifts and evolves unpredictably, reflecting the restless creativity that has made McCombs a favourite of critics and fellow musicians alike.
+A song that does something audacious: it wraps a devastating protest about racism, violence, and complicity inside an irresistibly warm, loping groove. "The white dog of the farm still breeds / She's off her leash / To tear flesh and teach / Bum bum bum." The "white dog" is a symbol of hatred — unleashed, breeding, self-perpetuating. McCombs invokes the Rothschild maxim "buy when there's blood in the streets" and turns it into an indictment: "so they employed men far away to turn against their home." He sends a letter to his congressman — and they send back "an apple phone, a fine-hair comb, and a bell tolled." Shut up and consume. PopMatts called it "the kind of fluid, undeniable hit that could fit on the soundtrack to just about any indie movie" — never mind that the lyrics rhapsodise about "blood in the streets" and "white bread artists." That tension between the music's ease and the lyrics' fury is the whole point.
+
+McCombs, born in Concord, California in 1977, has been described as "an enigmatic folk nomad" and "a quintessentially American artist" who has "quietly become one of the country's finest chroniclers of fringe characters." He was established as "a worthy successor to dreary balladeers like Leonard Cohen and Elliott Smith," though that undersells his dark humour and political edge. He toured with John Cale in 2012, and his songs have appeared in Netflix's Russian Doll and notable skate videos. In an interview, McCombs articulated his philosophy: "I don't think anyone knows anything and I don't trust people who say that they do. Don't give me a plan, give me action."
 
 ### Codex
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Bum Bum Bum](#bum-bum-bum) · [Desert Raven →](#desert-raven)</sub>
@@ -194,7 +231,9 @@ From Cass McCombs' 2016 album Mangy Love, "Bum Bum Bum" is a characteristically 
 
 **Artist:** [Radiohead](#radiohead) · **Album:** [The King of Limbs](#the-king-of-limbs)
 
-From Radiohead's 2011 album The King of Limbs, "Codex" is a hauntingly beautiful piano ballad that provides a moment of stillness amid the album's rhythmic complexity. Thom Yorke's falsetto vocal floats over a simple piano figure and warm orchestral textures, creating a sense of consolation and release. The song was partly inspired by the natural environment around the band's recording studio, and its imagery of lakes and clear water evokes a feeling of cleansing and renewal.
+A piano ballad with "spectral" horns and strings and a Roland TR-808 drum machine. Rolling Stone described it as "a somber, gorgeous piano ballad with muffled beats and beautiful string arrangements performed by The London Telefilmonic Orchestra." The lyrics speak of jumping "off the end / into a clear lake / no one around" — "a song about washing yourself clean in a world of dirty water." The murky piano sounds as if recorded underwater, like the chords are forming part of a requiem. The word "codex" means an ancient manuscript, a hand-assembled book of knowledge. But Yorke's codex contains no answers, only the instruction to let go.
+
+From Radiohead's eighth studio album, self-released in February 2011. Thom Yorke described The King of Limbs as "an expression of wildness and mutation." At eight tracks and 37 minutes, it's their shortest album, developed by sampling and looping their own playing with producer Nigel Godrich — the same Godrich who produced Beck's Sea Change tracks in this playlist. The Quietus placed the album alongside Alice Coltrane and John Martyn as music that "had the vision to step outside of genre and commercial considerations, swimming out into the ocean of all music." Yorke is also the voice on PJ Harvey's "This Mess We're In" from this collection.
 
 ### Desert Raven
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Codex](#codex) · [Don't Want To Know →](#dont-want-to-know)</sub>
@@ -202,7 +241,9 @@ From Radiohead's 2011 album The King of Limbs, "Codex" is a hauntingly beautiful
 
 **Artist:** [Jonathan Wilson](#jonathan-wilson) · **Album:** [Gentle Spirit](#gentle-spirit)
 
-An epic, nearly eight-minute track from Jonathan Wilson's 2011 debut album Gentle Spirit, "Desert Raven" is a masterful piece of Laurel Canyon-inspired psychedelic folk rock. Wilson's multi-layered production, which he recorded largely himself, builds from a simple acoustic guitar figure into a richly orchestrated arrangement featuring Mellotron, pedal steel, and layered harmonies. The song channels the spirit of Neil Young, Crosby Stills and Nash, and early Pink Floyd while maintaining Wilson's own distinctive vision.
+A swirling dream that smoulders with gentle escapism, offering soul retreat into lush wilderness realms. The raven soars through desert skies — a creature that represents endurance, wisdom, and the freedom of solitary flight. Wilson has said the song emerged from his own reflections during a road trip through the desert. Apple Music described it as braiding "cosmic American twang into wistful dream pop, creating a beautifully organic psychedelia." The Line of Best Fit heard "the rippling duelling guitars of Grateful Dead" powering its "gently galloping" rhythm — it has the feeling of a long ride with no destination, the kind of driving song where you realise the journey was the point.
+
+Gentle Spirit was recorded at Wilson's former studio, Canyonstereo, in Laurel Canyon and released on Bella Union in 2011. It received Mojo's number 4 spot in their Albums of the Year. The album's underlying theme concerns "the desensitization caused by daily exposure to mankind's despair" — how to reconcile desire for inner peace with rage at worldly events. At 78 minutes, it traded among Wilson's friends on sharpie-labelled CDRs for years before release, building a following that included Jackson Browne, Robbie Robertson, and Elvis Costello. Wilson, born in North Carolina in 1974, is also a noted producer — he produced Roy Harper's Man & Myth and Father John Misty's Pure Comedy. In interviews, he cited Talk Talk among his influences, an unexpected connection to this playlist.
 
 ### Don't Want To Know
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Desert Raven](#desert-raven) · [Earthquake →](#earthquake)</sub>
@@ -242,7 +283,9 @@ From Ishmael Ensemble's album Visions of Light, "Feather" is a track from the Br
 
 **Artist:** [John Martyn](#john-martyn) · **Album:** [Solid Air](#solid-air)
 
-Another classic from John Martyn's Solid Air, "Go Down Easy" is a slow, sensuous track that showcases Martyn's extraordinary ability to fuse folk, jazz, and blues into something entirely personal. His voice, warm and slightly blurred, wraps around the melody with an intimate tenderness, while his acoustic guitar, fed through the Echoplex, creates shimmering, resonant patterns. The song's unhurried pace and emotional directness make it one of the most affecting tracks on an album full of highlights.
+The album's "often overlooked gem" — an "unbelievably beautiful, fragile number" that follows the ferocity of "I'd Rather Be The Devil" with late-night mellowness. The lyrics are among Martyn's simplest and most tender: "You curl around me / Like a fern in the spring / Lie down here / Let me sing the things you bring." He promises nothing fancy — "I won't be fancy / But I will be free / You know I love you / And you can really talk to me." Danny Thompson was deeply moved by that opening image: "Who else could write something so beautiful as 'You curl around me like a fern in the spring'?" he asked Mojo. "I can't, but I can respond to it."
+
+With no other instrumentation beyond Thompson's double bass and Martyn's acoustic guitar, "Go Down Easy" provides Thompson with ample opportunity to respond, and his playing elevates the track into one of Solid Air's finest moments. This is the second Martyn track in the playlist after "Don't Want to Know," and together they illuminate the album's duality: that song is the idealist raging against the world's horrors; this one is the same man turning to the person beside him and saying: here, at least, is something real. Thompson, of course, is also the bassist from Pentangle — the same Danny Thompson whose double bass connects folk to jazz to post-rock across five decades.
 
 ### Goodbye Pork Pie Hat - with audience
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Go Down Easy](#go-down-easy) · [Heaven - Remastered →](#heaven-remastered)</sub>
@@ -266,7 +309,9 @@ A tender, understated ballad from The Rolling Stones' 1981 album Tattoo You, "He
 
 **Artist:** [William Tyler](#william-tyler) · **Album:** [Modern Country](#modern-country)
 
-An extended instrumental piece from William Tyler's 2013 album Modern Country, "Highway Anxiety" is a sprawling, nine-minute journey through American guitar traditions. Tyler, formerly of Lambchop, constructs a mesmerising piece of solo acoustic guitar work that draws on folk, country, and minimalism, building layers of fingerpicked patterns into a vast, meditative landscape. The title captures the paradoxical feeling of freedom and unease that accompanies long-distance travel, rendered in purely instrumental terms.
+Nine minutes of entirely instrumental guitar music that manages to tell a complete emotional story. Tyler told Rolling Stone it was inspired by a 2013 attack of agoraphobia that drove him off the interstates and onto back roads. His cushioned electric guitar unribbons across the full span, gradually joined by swirling clouds of pedal steel, kosmische piano, and Glenn Kotche's shuffling snares. The title captures something precise: the way driving can be simultaneously soothing and terrifying, the way a highway can be both freedom and trap.
+
+Tyler described the album Modern Country as "a love letter to what we are losing in America — to what we have already lost." The cultural geography of a vanishing America is what he senses on long road trips — "it still lives, even as the highways and high-rises push it to the fringes of the countryside." A Nashville guitarist and composer who spent years touring with Lambchop and Silver Jews, Tyler's instrumental Americana sits at the intersection of John Fahey's American Primitive guitar, Krautrock's motorik pulse, and the wide-open spaces of pedal steel country — a uniquely American form of post-rock.
 
 ### How To Be Invisible
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Highway Anxiety](#highway-anxiety) · [I Don't Believe in You - 1997 Remaster →](#i-dont-believe-in-you-1997-remaster)</sub>
@@ -274,7 +319,9 @@ An extended instrumental piece from William Tyler's 2013 album Modern Country, "
 
 **Artist:** [Kate Bush](#kate-bush) · **Album:** [Aerial](#aerial)
 
-From Kate Bush's 2005 double album Aerial, "How To Be Invisible" is a playful, rhythmically inventive track from the album's first disc, A Sea of Honey. Bush delivers what sounds like a witch's spell or incantation, her voice darting between spoken word and melody over a bed of acoustic guitar, hand drums, and subtle electronics. The song combines whimsy with something darker and more mysterious, showcasing Bush's unique ability to blend the domestic and the magical.
+This is a spell — literally structured as one. The lyrics take the form of a witch's recipe for disappearance: "Take a pinch of keyhole / And fold yourself up / You cut along the dotted line / You think inside out / And you're invisible." The recurring incantation lists ingredients drawn from things habitually overlooked: "Eye of Braille / Hem of anorak / Stem of wallflower / Hair of doormat" — each one unorthodox, contradictory, and yet totally applicable to the socially invisible. A labyrinth appears, with a million doors opening onto corridors that "blister and burn." Then the song asks its devastating quiet question: "Is that the wind from the desert song? Is that an autumn leaf falling? Or is that you, walking home?"
+
+From Bush's 2005 double album Aerial, released after a twelve-year absence during which she devoted herself to raising her son, Bertie. The album is divided into A Sea of Honey (standalone songs) and A Sky of Honey (a continuous 42-minute suite following a single summer day). The album cover appears to show a mountain range at sunset but is actually a waveform of a blackbird song. It competed against Gorillaz and Richard Hawley's Coles Corner at the South Bank Show Awards — a connection to this playlist. Bush became the first female artist to top the UK chart with a fully self-written song in 1978 with "Wuthering Heights." The Irish Times called her "the greatest singer-songwriter of the past forty years," noting that "there's not a spare word anywhere in Bush's work." Peter Gabriel may be the artist who came closest to sharing Bush's confluence of theatricality, urgency, and emotion — and Gabriel's "Mercy Street" is also in this playlist.
 
 ### I Don't Believe in You - 1997 Remaster
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← How To Be Invisible](#how-to-be-invisible) · [John Cope →](#john-cope)</sub>
@@ -290,7 +337,9 @@ From Talk Talk's 1986 album The Colour of Spring, "I Don't Believe in You" captu
 
 **Artist:** [Talk Talk](#talk-talk) · **Album:** [I Believe in You](#i-believe-in-you)
 
-A track from Talk Talk released on the I Believe in You single, "John Cope" displays the kind of dynamic, organically constructed music that characterised the band's later period. Named after a historical figure, the song features the spontaneous interplay of a large ensemble of musicians, with Mark Hollis's vocal emerging from and receding into the rich instrumental textures. The track showcases Talk Talk's unique recording process, where hours of improvised performances were edited into carefully sculpted compositions.
+A deep cut — the B-side to the only single released from Spirit of Eden. Originally demoed in 1985 for The Colour of Spring but didn't make the cut, then held over for Spirit of Eden but again excluded. Its lyrics are spare and devastating: "Weapons at my feet, some kind of living / Beggar sits to plead, some kind of giving." One fan wrote that if they had to describe the world today in a few phrases, those lines would suffice. A longtime Talk Talk fan described it as "sad, deep, delicate, beautiful, mournful — overwhelming in its understatement. Part blues, part jazz, the vocal is simple, the guitar riffs raw and damning, the organ playing twists in gloriousness."
+
+The song belongs to a "missing" album between Colour of Spring and Spirit of Eden — a transitional work that was never gathered together. The name itself is intriguing: when Hollis later recorded a pseudonymous piano piece for the 1998 album AV 1 by Allinson/Brown (produced by Phill Brown), he credited himself as "John Cope" — using the song title as a ghost-identity. Whether "John Cope" was ever a real person, or simply a vessel for a particular kind of stripped-back honesty, remains one of those Talk Talk mysteries Hollis never explained.
 
 ### Le soleil est pres de moi
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← John Cope](#john-cope) · [Let's Go Out Tonight →](#lets-go-out-tonight)</sub>
@@ -306,7 +355,9 @@ From Air's 1997 debut EP Premiers Symptomes, "Le soleil est pres de moi" ("The S
 
 **Artist:** [The Blue Nile](#the-blue-nile) · **Album:** [Hats](#hats)
 
-From The Blue Nile's 1989 album Hats, "Let's Go Out Tonight" is a masterpiece of understated romantic longing. Paul Buchanan's vulnerable tenor delivers the simplest of invitations over a bed of shimmering synthesisers, subtle guitar, and precise electronic percussion. The production by the band and Calum Malcolm is extraordinarily meticulous, every element placed with surgical precision to create an atmosphere of nocturnal urban elegance. The song captures the aching hopefulness of love with an economy and emotional precision that is deeply affecting.
+"Where the cars go by / All the day and night / Why don't you say / What's so wrong tonight? / Pray for me / Praying for the light / Baby baby / Let's go out tonight." Jazz singer Curtis Stigers called it "the saddest song ever written." On the surface it's an invitation — let's leave the flat, let's escape into the city night — but Paul Buchanan's voice makes it sound like a last plea from someone who knows the relationship is ending. The song includes a very short bridge that appears almost from nowhere, featuring what has been called "one of the most sublime, perfectly placed piano chords in all of pop music."
+
+Hats was released on 9 October 1989 to rave reviews, including a rare five-star rating from Q magazine. It reached number 12 on the UK chart. It came after a prolonged delay in which an entire album's worth of work was scrapped — the band had been forced to share a house, arguments developed, and they were being sued by Virgin. When they returned to Glasgow, Buchanan overcame his writer's block: "We actually recorded the rest of Hats super quick... Honestly, half of Hats was, like, a week." The album is largely inspired by crumbling relationships, including Buchanan's own parents' breakup after a decades-long marriage. One devoted listener wrote: "Hats is the sound of the first year of our real life together. This is the sound of us. Every second of this album is about love." Taylor Swift name-checked The Blue Nile on The Tortured Poets Department in 2024.
 
 ### Life's What You Make It - 1997 Remaster
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Let's Go Out Tonight](#lets-go-out-tonight) · [Mercy Street →](#mercy-street)</sub>
@@ -314,7 +365,9 @@ From The Blue Nile's 1989 album Hats, "Let's Go Out Tonight" is a masterpiece of
 
 **Artist:** [Talk Talk](#talk-talk) · **Album:** [The Colour of Spring](#the-colour-of-spring)
 
-Talk Talk's 1986 single from The Colour of Spring, "Life's What You Make It" was the band's biggest commercial success and remains their most recognisable song. Built on a propulsive rhythm of pounding drums, stabbing guitar, and insistent bass, the track channels an almost primal energy that belies its pop-chart context. Mark Hollis's urgent vocal and the song's driving momentum made it an anthem, while its production sophistication hints at the experimental direction the band would pursue more fully on subsequent albums.
+The hinge of Talk Talk's career — the song that was both their biggest hit and the last time they'd make anything remotely accessible. It reached number 16 on the UK chart and became their signature tune, driven by a monumental, looping guitar riff and Lee Harris's rolling drums. The lyrics are deceptively simple: "Baby, life's what you make it / Can't escape it." But the delivery turns self-help platitude into existential challenge — Hollis doesn't sound like he's encouraging anyone. He sounds like he's daring you. The Colour of Spring became Talk Talk's most successful album, selling over two million copies and prompting a major world tour. At the same time, minimalist songs like "April 5th," "Chameleon Day," and the B-side "It's Getting Late in the Evening" pointed towards Spirit of Eden's radical turn.
+
+This is a fascinating pick alongside "Let's Go Out Tonight" — both are 1980s songs with deceptively simple titles that sound like invitations but feel like elegies. And both bands — Talk Talk and The Blue Nile — were notorious perfectionists who made very few albums and let silence do the work that other bands fill with noise. In this playlist, "Life's What You Make It" is the last moment Talk Talk stood in the spotlight before walking deliberately into the dark.
 
 ### Mercy Street
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Life's What You Make It - 1997 Remaster](#lifes-what-you-make-it-1997-remaster) · [Murmuration →](#murmuration)</sub>
@@ -338,7 +391,9 @@ From GoGo Penguin's breakout album v2.0, "Murmuration" takes its name from the m
 
 **Artist:** [Almunia](#almunia) · **Album:** [New Moon](#new-moon-1)
 
-From Almunia's album of the same name, "New Moon" is a track from the electronic music project known for blending ambient textures with subtle rhythmic elements. The piece creates a contemplative, nocturnal atmosphere through layered synthesisers, gentle beats, and spacious production. Like its celestial namesake, the track evokes darkness not as absence but as a canvas for quiet illumination, with sounds emerging and receding like light through clouds.
+The title track of Almunia's debut album — six and a half minutes of slow-building, hypnotic psychedelic electronics. Described as "a sweet Pink Floydian ride," guitars spiral over warm, pulsing grooves, layering textures until you're enveloped. Where many selections in this playlist use silence as a tool, "New Moon" uses density — but gently, like fog thickening rather than a wall going up. The title carries its full lunar weight: the new moon is the dark phase, the moment of invisible renewal, when something is about to begin but hasn't yet shown itself.
+
+Almunia is an Italian electronic duo — Leonardo Ceccanti (guitars, bass, keyboards, vocals) and Gianluca Salvadori (turntables, production). Their debut was released in 2011 on the British label Claremont 56, which specialises in the warm intersection of disco, dub, and psychedelia — records designed for sunsets and the hour after them. Hand-numbered gatefold copies now sell on Discogs for around £170, and the album carries a near-perfect 4.82 out of 5 rating from 114 ratings — suggesting an intensely devoted following. This is a genuinely obscure pick in the context of this playlist: music found through listening rather than through media, through following a thread of sound rather than reputation.
 
 ### Observatory Crest
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← New Moon](#new-moon) · [Paper Tiger →](#paper-tiger)</sub>
@@ -354,7 +409,9 @@ From Captain Beefheart and His Magic Band's 1974 album Blue Jeans and Moonbeams,
 
 **Artist:** [Beck](#beck) · **Album:** [Sea Change](#sea-change)
 
-From Beck's Sea Change, "Paper Tiger" is one of the album's most orchestrally rich tracks, featuring lush string arrangements by David Campbell (Beck's father). The song moves with a stately, almost processional quality, Beck's subdued vocal floating over a bed of strings, acoustic guitar, and subtle percussion. Nigel Godrich's production gives the track a translucent, shimmering quality. The title metaphor of the paper tiger, something that appears threatening but is actually fragile, resonates with the album's themes of vulnerability.
+A key song on Sea Change. Much of the album has Beck feeling deeply lonesome or giving up, but on "Paper Tiger" he's realising the situation is hopeless — and in that realisation, finding strength. A paper tiger is someone who appears powerful but is actually feeble, an expression from a Chinese saying applied by Mao to the USA. Beck applies it to his own feelings: naming them diminishes their power. PopMatts called it "a pulsating slab of psychedelic rock with a molasses-thick bassline and guitars and strings that stab in and out of the mix with the rock-opera melodrama of David Bowie's best pre-Ziggy work." Drowned in Sound heard "pure Melody Nelson-era Serge Gainsbourg."
+
+The orchestral solo is remarkable: Beck told NPR that "there's a whole solo that the orchestra does; that was actually something I sang, and then we just transcribed it." His father David Campbell arranged those strings. Bassist Justin Meldal-Johnsen played a Guild Starfire through a B-15R with a pick, openly inspired by Gainsbourg's Histoire de Melody Nelson. This is the second Sea Change track in the playlist after "The Golden Age" — and they work as a pair: that one is the numb driving-at-night opener; this is the moment the fog clears enough to see what you've lost and begin, almost imperceptibly, to move past it.
 
 ### Paris, Texas
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Paper Tiger](#paper-tiger) · [Someday →](#someday)</sub>
@@ -402,7 +459,9 @@ From PJ Harvey's 1998 album Is This Desire, "The Garden" is a dark, atmospheric 
 
 **Artist:** [Mark Hollis](#mark-hollis) · **Album:** [Mark Hollis](#mark-hollis-1)
 
-From Mark Hollis's sole self-titled album released in 1998, "The Gift" is a masterclass in musical minimalism and the eloquent use of silence. Following the dissolution of Talk Talk, Hollis stripped his music even further, creating compositions where every note exists in a vast, quiet space. The track features delicate instrumentation, including clarinet, acoustic guitar, and piano, with Hollis's hushed vocal barely disturbing the stillness. It represents one of the most radical explorations of space and dynamics in popular music.
+A confession. God had offered Hollis great talent — "purest, purest" — but he had taken it and used it for his own benefit, becoming nothing less than a "clown." The song wonders if it's too late for repentance: "Cold / Burnt Out / And fear you are gone / And now the shade / Sun eclipsed to shade." Its subtle, jazzy groove reflected Hollis's love of Miles Davis and John Coltrane. At its end, masterfully composed clarinet and bassoon parts emerge, bleeding into the beginning of "A Life." The song inhabits the space between gratitude and guilt — an artist who knows his talent was a gift and fears he squandered it.
+
+AllMusic called the album "quite possibly the most quiet and intimate record ever made." It was originally intended as a Talk Talk album titled "Mountains of the Moon." Hollis told Music Minded: "I wanted to make a record where you can't hear when it has been made," citing Miles Davis and Gil Evans's Sketches of Spain as models. The sessions used only two microphones — "recording in its purest form." Engineer Phill Brown, who had also recorded Laughing Stock, found the solo album "the opposite — open, restful and at times fantastically beautiful." Hollis walked away from music after its release: "The way I think about it is to try and make an album that is unique. To make an album that could exist outside of the period in which it's written and recorded — that's the aim." He died on 25 February 2019, having preferred quiet seclusion and family to public life.
 
 ### The Golden Age
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Gift](#the-gift) · [The Ocean →](#the-ocean)</sub>
@@ -434,7 +493,9 @@ The closing track of Talk Talk's masterpiece Spirit of Eden, "The Rainbow" is a 
 
 **Artist:** [Massive Attack and Hope Sandoval](#massive-attack-and-hope-sandoval) · **Album:** [The Spoils](#the-spoils-1)
 
-A collaboration between Massive Attack and Mazzy Star's Hope Sandoval, released as a single in 2016, "The Spoils" is a gorgeous, slow-burning piece of trip-hop balladry. Sandoval's dreamy, whispery vocal floats over Massive Attack's characteristic bass-heavy production and lush electronic textures. The song builds with patient intensity, its cinematic sweep and emotional depth recalling the Bristol group's finest work. The collaboration between two artists known for their atmospheric, melancholic music yields something truly mesmerising.
+Released on 29 July 2016, this was Sandoval's third collaboration with the Bristol group, following "Paradise Circus" from Heligoland (2010) and "Four Walls" (2011). The lyrics circle around a paradox of possession: "I somehow slowly love you and wanna keep you the same" set against "I somehow slowly know you and wanna keep you away." The repeated phrase "I got that feeling, that bad feeling that you don't know" establishes an undertow of foreboding. PopMatts called it "immaculately constructed," noting the "string-laden chorus feels like a sad, distant, and dying callback" to "Unfinished Sympathy" — but where that song "captured the ambiguous rush of love, 'The Spoils' details its fall into the abyss." The title itself is potent — "the spoils" are what's left after a battle, the wreckage the victor claims. But Sandoval's delivery makes it sound like nobody won here.
+
+The video, directed by John Hillcoat and starring Cate Blanchett, shows her face slowly deconstructing and morphing until all that remains is a stone bust — symbolising dissolution and identity loss. The single exists in a kind of liminal space in Massive Attack's discography: no studio album had appeared since Heligoland in 2010. Massive Attack emerged from the Wild Bunch, one of the first homegrown sound systems in the UK, which became dominant on the Bristol club scene in the 1980s. Both Blue Lines and Mezzanine feature on Rolling Stone's list of the 500 Greatest Albums of All Time. Sandoval, born in East Los Angeles to Mexican-American parents, prefers to sing in near-darkness with only a dim backlight. After Mazzy Star went on hiatus in 1997, she formed the Warm Inventions with My Bloody Valentine drummer Colm Ó Cíosóig — the two had met in a dark London nightclub. Her debut Bavarian Fruit Bread featured Bert Jansch on guitar, connecting to the Pentangle selection in this playlist.
 
 ### The Watershed
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Spoils](#the-spoils) · [TheWhisperers →](#thewhisperers)</sub>
@@ -442,7 +503,9 @@ A collaboration between Massive Attack and Mazzy Star's Hope Sandoval, released 
 
 **Artist:** [Mark Hollis](#mark-hollis) · **Album:** [Mark Hollis](#mark-hollis-1)
 
-Another track from Mark Hollis's self-titled album, "The Watershed" continues the record's exploration of extreme musical minimalism. Acoustic instruments are deployed with extraordinary care, each note placed with the precision of a painter adding brushstrokes to a nearly blank canvas. Hollis's vocal is hushed and intimate, as if heard through a wall. The silence between the notes becomes as expressive as the notes themselves, creating a listening experience that demands and rewards complete attention.
+The album's second track and one of the only two songs with anything approaching hooks. Built around harmonica, drums, bass, and acoustic guitar — sparse but colourful. You can hear Hollis literally shift in his seat before the music begins — a detail that tells you everything about how intimate this recording is. He gets lost in a kind of repetition, always coming back to "Should have said so much… Makes it harder… The more you love…" — the words of someone who knows that love and the failure to speak are the same wound. One reviewer called it "maybe the album's masterpiece for the central trumpet solo" — Henry Lowther's muted trumpet entering the space like light through a crack. That trumpet solo was notably the only real improvisation on the entire album, a departure from Spirit of Eden and Laughing Stock where improvisation was central.
+
+A Rate Your Music reviewer described the moment at 3:20 "when the chords step gently up into a solidity that the rest had been wandering toward, like finding the well-water." The title resonates: a watershed is both a geographical dividing line and a moment of irreversible change. This song sits at exactly that point on the album — the threshold between the opening hymnal and the deeper, more labyrinthine material that follows.
 
 ### TheWhisperers
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Watershed](#the-watershed) · [This Mess We're In →](#this-mess-were-in)</sub>
@@ -466,7 +529,9 @@ A duet between PJ Harvey and Radiohead's Thom Yorke from the album Stories From 
 
 **Artist:** [Beth Gibbons and Rustin Man](#beth-gibbons-and-rustin-man) · **Album:** [Out Of Season](#out-of-season)
 
-From Beth Gibbons and Rustin Man's 2002 album Out Of Season, "Tom The Model" features the Portishead singer in a very different setting from her main band. Accompanied by Talk Talk's Paul Webb (recording as Rustin Man), Gibbons delivers a haunting performance over an arrangement rooted in acoustic folk and chamber music rather than trip-hop. The song showcases her remarkable vocal instrument, capable of expressing profound vulnerability and anguish, set against Webb's sophisticated, organically textured production.
+The lyrics depict the pain of a breakup with extraordinary generosity: "How can I forget your tender smile / Moments that I have shared with you / Our hearts may break / But they're on their way / And there's nothing I can do." The singer gives her ex freedom without bitterness: "Don't misunderstand me / You know you don't ever have to worry 'bout me / I'd do it again." It's a jazz-infused song with cavernous verses, prominent electric organ, and a brass-heavy chorus. Slant Magazine noted that Webb's arrangements are "less in-your-face" than Portishead's, "allowing Gibbons's every gritty vocal tic, every whimper and every pained lyric to rise to the surface."
+
+This is one of the most important connections in the entire playlist: Talk Talk's bassist Paul Webb (as Rustin Man) working with Portishead's singer Beth Gibbons. The album is largely folk with jazz leanings, drawing on Nina Simone, Billie Holiday, and Nick Drake. It also features contributions from Portishead's Adrian Utley and Webb's former Talk Talk bandmate Lee Harris. Tiny Mix Tapes named it their album of the year for 2002: "I ache with wonder at how an album this good could be made. Nothing, for even a spare moment, sounds as if it has been forced." Released as a single in March 2003, it reached number 70 in the UK.
 
 ### We Float
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Tom The Model](#tom-the-model) · [White Chalk →](#white-chalk)</sub>
@@ -490,7 +555,9 @@ The title track of PJ Harvey's 2007 album, "White Chalk" is a haunting piano bal
 
 **Artist:** [Vetiver](#vetiver) · **Album:** [To Find Me Gone](#to-find-me-gone)
 
-From Vetiver's 2006 album To Find Me Gone, "You May Be Blue" showcases the San Francisco band's refined blend of folk rock and gentle psychedelia. Andy Cabic's soft, understated vocal delivery and delicate acoustic guitar work create a warm, inviting atmosphere. The song has a timeless quality, drawing on the folk traditions of artists like Nick Drake and Tim Buckley while maintaining a distinctly modern sensibility. Its gentle reassurance and melodic charm make it one of the album's most memorable tracks.
+A quiet storm of a breakup song. The lyrics are direct and devastating: "You may be blue / But you dark my day / Throw shadows my way / Break my mind / While you say / That you've been treating me kind / Who are you foolin'?" The path through the relationship is visceral — "My time with you / Beat a thorn-filled path / Blood filled where we passed through / Blood red with wrath." And then the farewell: "You're gonna wake one day / To find me gone / And there won't be nothing but goodbye." Note that "find me gone" is also the album's title — the song is the album's thesis statement.
+
+Vetiver is the long-running project of San Francisco's Andy Cabic, who crafts "nuanced, understated songs that reward careful listening, building a rich duality; a space where sunshine is only a chord away from melancholy." Part of the "freak folk" scene alongside Devendra Banhart and Joanna Newsom, Cabic's sensibility is quieter and more self-effacing. Producer Thom Monahan later created a Neighbors remix of this track, turning it into an eight-minute drone compared to Sonic Boom's Spectrum. Hope Sandoval — whose "The Spoils" appears elsewhere in this playlist — has also collaborated with Vetiver, drawing another thread between seemingly distant points on the map.
 
 ## Artists
 <sub>[↑↑ TOC](#table-of-contents) · [← Songs](#songs) · [↓ Air](#air) · [Albums →](#albums)</sub>
@@ -1163,3 +1230,63 @@ PJ Harvey's 2007 album White Chalk marked a dramatic departure from the guitar-d
 **Artist:** [This Is The Kit](#this-is-the-kit) · **Songs in playlist:** [Earthquake](#earthquake)
 
 This Is The Kit's 2017 album Wriggle Out the Restless showcases Kate Stables's distinctive songwriting and was produced by John Parish (known for his work with PJ Harvey). The album combines folk traditions with more adventurous arrangements, featuring brass, intricate percussion, and layered vocals. It was released on Rough Trade Records and earned critical praise for its warmth, intelligence, and musical sophistication, establishing This Is The Kit as one of the most compelling voices in contemporary folk-adjacent music.
+
+
+## Extensions
+
+<sub>[↑↑ TOC](#table-of-contents) · [← Albums](#albums)</sub>
+
+The following fifty songs extend the world mapped by The Rainbow playlist. They follow the same threads — the devotion to atmosphere, space, and emotional honesty; the quiet assertion that the most powerful music is often the least assertive — while branching into territory the original collection only hinted at. Several deepen connections already established: more John Martyn, more Talk Talk-adjacent material, more Bristol atmosphere, more spiritual jazz, more Laurel Canyon reverie. Others open new doors — into the ambient drift of Harold Budd and Brian Eno, the long-form patience of Bark Psychosis and Tortoise, the spectral folk of Vashti Bunyan and Linda Perhacs, the jazz-inflected experimentation of Floating Points and Nils Frahm. What they share is the conviction, running through every track in the original playlist, that silence is a collaborator, not an absence — and that the space between notes is where the deepest music lives.
+
+The list is arranged not alphabetically but as a loose sequence, each song flowing into the next by mood, texture, or association, forming a playlist in its own right. It picks up roughly where The Rainbow leaves off, in the quiet after the last note, and moves outward.
+
+- "Parallelogram" by Linda Perhacs from *Parallelograms*, 1970
+- "Same Old Man" by Vashti Bunyan from *Just Another Diamond Day*, 1970
+- "River Man" by Nick Drake from *Five Leaves Left*, 1969
+- "One of These Things First" by Nick Drake from *Bryter Layter*, 1971
+- "Northern Sky" by Nick Drake from *Bryter Layter*, 1971
+- "Sweet Thing" by Van Morrison from *Astral Weeks*, 1968
+- "Astral Weeks" by Van Morrison from *Astral Weeks*, 1968
+- "I Am a Child" by Neil Young from *Neil Young*, 1968
+- "Harvest Moon" by Neil Young from *Harvest Moon*, 1992
+- "The Magdalene Laundries" by Joni Mitchell from *Turbulent Indigo*, 1994
+- "A Case of You" by Joni Mitchell from *Blue*, 1971
+- "Tinseltown in the Rain" by The Blue Nile from *A Walk Across the Rooftops*, 1984
+- "From a Late Night Train" by The Blue Nile from *Hats*, 1989
+- "Ascension Day" by Talk Talk from *Laughing Stock*, 1991
+- "New Grass" by Talk Talk from *Laughing Stock*, 1991
+- "After the Flood" by Talk Talk from *Laughing Stock*, 1991
+- "A New Jerusalem" by Mark Hollis from *Mark Hollis*, 1998
+- "Mysteries" by Beth Gibbons and Rustin Man from *Out of Season*, 2002
+- "Wandering Star" by Portishead from *Dummy*, 1994
+- "Roads" by Portishead from *Dummy*, 1994
+- "Teardrop" by Massive Attack from *Mezzanine*, 1998
+- "Protection" by Massive Attack from *Protection*, 1994
+- "Fade into You" by Mazzy Star from *So Tonight That I Might See*, 1993
+- "Into Dust" by Mazzy Star from *So Tonight That I Might See*, 1993
+- "Heather" by Billy Mackenzie from *Beyond the Sun*, 1997
+- "Codename: Dustsucker" by Bark Psychosis from *Codename: Dustsucker*, 2004
+- "Big Shot" by Bark Psychosis from *Hex*, 1994
+- "Djed" by Tortoise from *Millions Now Living Will Never Die*, 1996
+- "Promises" by Floating Points, Pharoah Sanders & The London Symphony Orchestra from *Promises*, 2021
+- "Says" by Nils Frahm from *Spaces*, 2013
+- "An Ending (Ascent)" by Brian Eno from *Apollo: Atmospheres and Soundtracks*, 1983
+- "The Pearl" by Harold Budd and Brian Eno from *The Pearl*, 1984
+- "Against the Sky" by Harold Budd from *The Pavilion of Dreams*, 1978
+- "The Disintegration Loops 1.1" by William Basinski from *The Disintegration Loops*, 2002
+- "Treefingers" by Radiohead from *Kid A*, 2000
+- "How to Disappear Completely" by Radiohead from *Kid A*, 2000
+- "Videotape" by Radiohead from *In Rainbows*, 2007
+- "You've Got to Have Freedom" by Pharoah Sanders from *Live...*, 1982
+- "Journey in Satchidananda" by Alice Coltrane from *Journey in Satchidananda*, 1971
+- "Altar of Harmony" by Luke Schneider from *Altar of Harmony*, 2020
+- "Not in Our Stars" by William Tyler from *Goes West*, 2019
+- "County Line" by Cass McCombs from *Wit's End*, 2011
+- "Lean on Me" by Spiritualized from *Ladies and Gentlemen We Are Floating in Space*, 1997
+- "I Think I'm in Love" by Spiritualized from *Ladies and Gentlemen We Are Floating in Space*, 1997
+- "Night Sailing" by Richard Hawley from *Late Night Final*, 2001
+- "Open Up Your Door" by Richard Hawley from *Truelove's Gutter*, 2009
+- "Bachelorette" by Björk from *Homogenic*, 1997
+- "The Anchor Song" by Björk from *Debut*, 1993
+- "Lives Outgrown" by Beth Gibbons from *Lives Outgrown*, 2024
+- "Floating" by Beth Gibbons from *Lives Outgrown*, 2024
