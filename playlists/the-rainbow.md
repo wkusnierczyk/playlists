@@ -120,12 +120,14 @@ The songs in this playlist were not selected all at once but submitted in batche
 
 
 ### Afro Blue
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [All I Need →](#all-i-need)</sub>
+
 
 
 **Artist:** [Melanie De Biasio](#melanie-de-biasio) · **Album:** [Lilies](#lilies)
 
-Melanie De Biasio's version of the Mongo Santamaria classic reimagines the jazz standard as a hypnotic, slow-burning meditation. From her album Lilies, the Belgian singer strips the song down to its essence, her breathy, intimate vocal floating over sparse instrumentation of flute, bass, and gentle percussion. The performance unfolds with a patience and spaciousness that transforms the familiar melody into something deeply personal and almost trance-like in its repetitive beauty.
+Mélanie De Biasio's version of the Mongo Santamaría/Oscar Brown Jr. standard strips the song to near-silence — a whispered, spectral reimagining that barely seems to exist. Her breathy, intimate vocal floats over sparse instrumentation of flute, bass, and gentle percussion, transforming the familiar melody into something deeply personal and almost trance-like in its repetitive beauty.
+
+De Biasio, born in Charleroi, Belgium in 1978, developed her signature whisper after a pulmonary infection silenced her for a year in 2004. When her voice returned, it had changed — becoming the hushed, spectral instrument heard here. Phil Selway of Radiohead compared her album No Deal to "Billie Holiday walking into Mark Hollis's solo record sessions" — a description that connects her directly to the Talk Talk thread running through this playlist. She performs live with extraordinary stillness, drawing audiences into a meditative, almost trance-like state.
 
 ### All I Need
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Afro Blue](#afro-blue) · [Alone in Kyoto →](#alone-in-kyoto)</sub>
@@ -148,20 +150,30 @@ Sofia Coppola, who had worked with Air on The Virgin Suicides, asked them for a 
 Air weren't sure whether to include it on the album, but ultimately placed it as the final track — a sort of outro. This is the third Air track in the playlist, and together the three map a beautiful trajectory: "Le Soleil Est Près De Moi" (1997, the bedroom prototype), "All I Need" / "Talisman" (1998, the breakthrough), and "Alone in Kyoto" (2004, the mature distillation). Each one more still, more refined, more comfortable with silence.
 
 ### 6AM
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Alone in Kyoto](#alone-in-kyoto) · [As I Walk →](#as-i-walk)</sub>
+
 
 
 **Artist:** [Kutiman](#kutiman) · **Album:** [6 A.M.](#6-am)
 
-A track from Israeli musician Kutiman's album 6 A.M., this piece showcases his remarkable ability to blend diverse musical traditions into a cohesive whole. Known for his ThruYou project mixing YouTube videos into original compositions, Kutiman brings a similar collage sensibility to his studio work, weaving together funk, psychedelia, Middle Eastern music, and electronic production. "6AM" captures the dreamy, liminal atmosphere of the early morning hours through layered textures and hypnotic grooves.
+"6AM" — Kutiman
+
+"6AM" is the closing track — and title track — of Kutiman's 2016 album, the first official release on his own label Siyal Music. It's an instrumental that earns its name: strings by Oren Tsor swell over Kutiman's multi-layered foundation to create something that sounds exactly like the hour it describes — that suspended moment when the night is over but the day hasn't yet arrived, when everything is quiet enough to hear your own thoughts. After an album that moves through psychedelic rock, deep funk, and Middle Eastern grooves, "6AM" dissolves all of that energy into pure atmosphere. It's the comedown, the exhale, the view from a rooftop as the sky begins to lighten.
+
+*6AM* proves Kutiman has no musical boundaries — an album filled with psychedelic rock'n'roll roots that dips into deep funk/soul grooves and adds underlying influences from Africa and the Middle East. It stands as Kutiman's most song-oriented outing to date, with strong melodies and unforgettable hooks accompanied by lush, rich orchestral sounds. Pitchfork described his sound as "a psyched-up groove monster that can't decide between vintage and modern and instead just has it both ways."
+
+Ophir Kutiel, known as Kutiman, was born in Jerusalem in 1982 and grew up in Zichron Yaacov. He started piano at six and learned drums and guitar at fourteen. He studied jazz at Rimon Music College before discovering Afrobeat and funk through a college radio station. He's best known for "ThruYOU" (2009), a groundbreaking online project that mixed unrelated YouTube videos into seamless musical compositions, earning over ten million views in two weeks and a Time Magazine "50 Best Inventions" honour. But beneath the viral innovator is a deeply soulful multi-instrumentalist who plays, records, and produces virtually everything himself, and whose cross-cultural musical appetite — from Fela Kuti to Jamaica to the Marley family — gives his work a rare global warmth.
+
+---
 
 ### As I Walk
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← 6AM](#6am) · [Beat the Drum Slowly →](#beat-the-drum-slowly)</sub>
+
 
 
 **Artist:** [Matthew Halsall and The Gondwana Orchestra](#matthew-halsall-and-the-gondwana-orchestra) · **Album:** [Into Forever](#into-forever)
 
-From Matthew Halsall's album Into Forever, recorded with The Gondwana Orchestra, "As I Walk" is a luminous piece of spiritual jazz that draws on the tradition of artists like Alice Coltrane and Pharoah Sanders. Halsall's warm, lyrical trumpet leads an ensemble that includes harp, strings, and percussion through a gently unfolding meditation. The Gondwana Orchestra provides rich, supportive textures that give the music a sense of communal warmth and transcendence, rooted in the Manchester jazz scene.
+From Matthew Halsall's album Into Forever, recorded with The Gondwana Orchestra. Themes of sanctuary in nature — walking among mountains and trees, finding peace. Vocalist Josephine Oniyama co-composed several tracks, her voice adding warmth to Halsall's lyrical trumpet. The ensemble includes harp, strings, and percussion, creating a sense of communal transcendence rooted in the Manchester jazz scene.
+
+Halsall is a Manchester trumpeter and founder of Gondwana Records — the label that is home to GoGo Penguin, Portico Quartet, Mammal Hands, and Hania Rani. He was inspired by Alice Coltrane and Pharoah Sanders after hearing "You've Got to Have Freedom" at a Mr Scruff DJ set — a pivotal moment that redirected his musical life toward spiritual jazz. His vision of jazz as a healing, contemplative art form runs through everything Gondwana releases.
 
 ### Beat the Drum Slowly
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← As I Walk](#as-i-walk) · [Better Days →](#better-days)</sub>
@@ -184,36 +196,58 @@ Taylor Kirk left Ontario for Los Angeles to write Hot Dreams, inspired by Laurel
 From Nash's 1971 solo debut, released in the wake of CSNY's Déjà Vu. The album directly followed his breakup with Joni Mitchell. The guest list is extraordinary: David Crosby, Jerry Garcia, Phil Lesh, Dave Mason, David Lindley, Rita Coolidge, and Neil Young — who appeared under his pseudonym "Joe Yankee," playing piano on "Better Days." Nash — born in Blackpool, raised in Salford — was a founding member of The Hollies before emigrating to California. His gift was always for melody and directness: where Crosby was harmonically adventurous and Young was raw, Nash wrote songs that felt like letters to friends.
 
 ### Blue
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Better Days](#better-days) · [Bo's Veranda →](#bos-veranda)</sub>
+
 
 
 **Artist:** [Duke Garwood](#duke-garwood) · **Album:** [Garden of Ashes](#garden-of-ashes)
 
-From Duke Garwood's album Garden of Ashes, "Blue" is a stark, intimate track that showcases the London musician's deep roots in blues, folk, and experimental music. Garwood's weathered voice and spare guitar work create a raw, unadorned emotional directness. Known for his collaborations with Mark Lanegan, Garwood brings a similar dark intensity to his solo work, crafting songs that feel timeless in their simplicity and deeply personal in their expression.
+"Blue" — Duke Garwood
+
+"Blue" appears on Duke Garwood's 2017 album *Garden of Ashes*, released on Heavenly Records. The lyrics paint a picture of desire and surrender — "Blue, they were the eyes of shade / And I would like to stay / Take me in / Throw down like you're a fire-breathing fiend / Because I need your burn." It's a love song soaked in the language of combustion and collision — slow, smouldering, asking to be consumed. The word "blue" carries its full weight of meaning: colour, mood, musical tradition, the shade of eyes, the shade of feeling.
+
+On *Garden of Ashes*, Garwood describes a sanctuary in the ashes of a burning world: "This album is about midnight in the garden of love. The garden of good and evil. The garden of paradise that we know is being destroyed. It's all burned down. We burned it to ashes." Yet for all the anger, the music is warm and healing — each track unfurls like a Deep Heat patch for the soul through sonorous vocal delivery. It's fantasy music, beautiful apocalypse love music.
+
+Duke Garwood (born 1969) is a British multi-instrumentalist from London whose career spans over two decades of itinerant, cross-continental music-making. While his own music is rooted in the blues — dark, spectral, full of late-night atmosphere — working with others he's dipped into everything from soul horns to moody electronics. His first paid job was playing guitar on The Orb's "Perpetual Dawn" in the late 1980s. He's played clarinet on Savages' *Silence Yourself*, guitar on Mark Lanegan's *Blues Funeral*, and Lanegan described him as "one of his all-time favourite artists" and working with him as "one of the best experiences of his recording life." His travels extend from Thailand's bar scene to Moroccan hash bars to Josh Homme's Pink Duck studio in LA. He's a musician's musician in the truest sense — beloved by everyone who works with him, known by far fewer people than he deserves.
+
+---
 
 ### Bo's Veranda
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Blue](#blue) · [Bonfires on the Heath →](#bonfires-on-the-heath)</sub>
+
 
 
 **Artist:** [Morphine](#morphine) · **Album:** [Cure for Pain](#cure-for-pain)
 
-A standout from Morphine's acclaimed 1993 album Cure for Pain, "Bo's Veranda" showcases the band's unique instrumentation of two-string slide bass, baritone saxophone, and drums. Mark Sandman's laconic vocal delivery paints a vivid picture of a lazy afternoon scene, while Dana Colley's saxophone provides a smoky, jazz-inflected counterpoint. The song perfectly captures Morphine's signature low-rock sound, hypnotic and sultry, evoking film noir atmospherics in a rock context.
+An instrumental from Morphine's catalogue, with a Spanish/classical guitar feel over a smooth groove. The track was included on the B-Sides and Otherwise compilation (1997) and appeared on the Get Shorty soundtrack (1995). It showcases the band's ability to create atmosphere without words, the baritone saxophone and two-string slide bass creating a warm, cinematic nocturnal mood.
+
+Morphine were one of the most singular bands of the 1990s, built on an unconventional instrumentation of Mark Sandman's two-string slide bass, Dana Colley's baritone saxophone, and Billy Conway's drums — no guitar at all. They called their sound "low rock." Sandman was a riveting figure: a former cab driver and poet who invented his own instruments. He died onstage during a concert in Palestrina, Italy, on 3 July 1999, collapsing from a heart attack mid-performance at the age of 46. The band's Cure for Pain (1993) remains their definitive statement.
 
 ### Bonfires on the Heath
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Bo's Veranda](#bos-veranda) · [Branches Break →](#branches-break)</sub>
+
 
 
 **Artist:** [The Clientele](#the-clientele) · **Album:** [Bonfires on the Heath](#bonfires-on-the-heath-1)
 
-The title track from The Clientele's 2009 album, "Bonfires on the Heath" is a shimmering piece of pastoral psychedelia that captures the London group's gift for evoking very specific English atmospheres. Alasdair MacLean's gentle vocal and chiming guitar create images of autumn evenings and suburban landscapes, while the band's arrangements, enriched with strings and reverb, suggest a world seen through a soft, nostalgic haze. The song exemplifies the group's unique blend of 1960s pop, chamber music, and impressionistic lyricism.
+"Bonfires on the Heath" — The Clientele
+
+The title track of The Clientele's fifth studio album, released in 2009. AllMusic called the album "the most perfect, autumnal, English pop record imaginable." The song itself is a gently picked acoustic guitar carrying Alasdair MacLean's whispery vocal through images of late October — kids jumping bonfires, sunlight in the wood, nothing moving quite the way it should. Its gentle plod, slide guitar, and woodwind-like vocal harmonies exude the comforting warmth of dappled beams of low-angled sunlight on bronzing foliage.
+
+There's a special sadness in the album — a British take on the Japanese concept of "mono no aware," the bittersweet awareness of transience. MacLean isn't just referencing a cherished childhood memory; the last line conjures darker undertones — a sense of having crossed some invisible line between this world and whatever lies beyond it.
+
+*Bonfires on the Heath* is a return to The Clientele's roots — the dreamlike suburban landscapes first encountered in the early singles, their trippy sense of menace stronger now. They've drawn on older traditions of English folk, existing side by side with their more familiar bossa and pop elements. The band's music and lyrics have never been this ephemeral, this lost — in the sense of being caught up in the rapture, wonder, and fear of what they're doing. The consistency of atmosphere makes the album a distinctively satisfying listen, one in which anybody who makes the initial effort can immerse themselves entirely.
+
+The Clientele are a London-based four-piece — Alasdair MacLean (vocals, guitar), James Hornsey (bass), Mark Keen (drums), and Mel Draisey (piano, violin). Instantly identifiable, they sound like no one else, though they're cited as an influence by bands as diverse as Spoon and Fleet Foxes. Their earlier records were wrapped in thick reverb and sounded like transmissions from another era; later albums became more defined but never lost the Clientele's essential quality — a permanent state of dusk, of memory dissolving into melody, of beauty inseparable from loss. MacLean's voice, barely above a whisper, is one of the most distinctive in British indie music, and his lyrics inhabit a space between the everyday and the uncanny where suburban streets become landscapes of quiet enchantment.
+
+---
 
 ### Branches Break
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Bonfires on the Heath](#bonfires-on-the-heath) · [Bum Bum Bum →](#bum-bum-bum)</sub>
+
 
 
 **Artist:** [GoGo Penguin](#gogo-penguin) · **Album:** [Man Made Object](#man-made-object)
 
-A highlight from GoGo Penguin's 2016 album Man Made Object, "Branches Break" demonstrates the trio's evolution toward a more electronic-influenced sound while retaining their acoustic instrumentation. The track builds from a delicate piano motif into a complex, rhythmically driven piece where the boundaries between acoustic performance and electronic production become beautifully blurred. Chris Illingworth's piano patterns interlock with the rhythm section to create something that feels simultaneously organic and machine-like.
+The third track on GoGo Penguin's 2016 Blue Note debut Man Made Object. Bright, lyrical piano cascades over a driving club-influenced rhythm. The album's themes explored robotics and transhumanism — the tension between human and machine. Compositions started electronically then were translated to acoustic instruments, giving the music a distinctive quality: it sounds simultaneously organic and machine-like.
+
+Man Made Object pushed the Manchester trio further into electronic territory while retaining their acoustic instrumentation. The album title reflects its exploration of the relationship between human creativity and technology, with tracks that blur the line between organic performance and digital processing. Chris Illingworth's piano patterns interlock with the rhythm section to create something that feels both composed and spontaneous.
 
 ### Bum Bum Bum
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Branches Break](#branches-break) · [Codex →](#codex)</sub>
@@ -246,39 +280,63 @@ A swirling dream that smoulders with gentle escapism, offering soul retreat into
 Gentle Spirit was recorded at Wilson's former studio, Canyonstereo, in Laurel Canyon and released on Bella Union in 2011. It received Mojo's number 4 spot in their Albums of the Year. The album's underlying theme concerns "the desensitization caused by daily exposure to mankind's despair" — how to reconcile desire for inner peace with rage at worldly events. At 78 minutes, it traded among Wilson's friends on sharpie-labelled CDRs for years before release, building a following that included Jackson Browne, Robbie Robertson, and Elvis Costello. Wilson, born in North Carolina in 1974, is also a noted producer — he produced Roy Harper's Man & Myth and Father John Misty's Pure Comedy. In interviews, he cited Talk Talk among his influences, an unexpected connection to this playlist.
 
 ### Don't Want To Know
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Desert Raven](#desert-raven) · [Earthquake →](#earthquake)</sub>
+
 
 
 **Artist:** [John Martyn](#john-martyn) · **Album:** [Solid Air](#solid-air)
 
-From John Martyn's 1973 masterpiece Solid Air, "Don't Want To Know" features the Scottish singer-songwriter's distinctive slurred vocal style and innovative guitar work, processed through his trademark Echoplex delay unit. The track moves with a gentle, rolling rhythm, its jazz-inflected acoustic guitar creating hypnotic patterns beneath Martyn's emotionally charged singing. The song's mood is bittersweet, capturing the album's themes of friendship, loss, and late-night introspection.
+A minor-key samba from John Martyn's 1973 masterpiece Solid Air. "I don't want to know about evil / Only want to know about love" — but the verses contain apocalyptic imagery of planes tumbling and cities crumbling. The song builds to a pentecostal mantra with handclaps, Martyn's slurred vocal becoming another instrument in the mix. Danny Thompson's double bass provides the rhythmic and harmonic foundation — the same Danny Thompson who played with Pentangle.
+
+Solid Air was recorded in just over a week with few overdubs, most material cut live. The title track was written for Martyn's friend Nick Drake, who would die of an antidepressant overdose eighteen months after the album's release. Martyn's use of the Echoplex delay unit to create shimmering guitar textures was hugely influential, and his emotionally raw vocal style — "slurred and strangled to the point of effacement, becoming another part of the instrumental mix" — anticipated the approach Mark Hollis would take on his solo album two decades later.
 
 ### Earthquake
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Don't Want To Know](#dont-want-to-know) · [Endless →](#endless)</sub>
+
 
 
 **Artist:** [This Is The Kit](#this-is-the-kit) · **Album:** [Wriggle Out the Restless](#wriggle-out-the-restless)
 
-From This Is The Kit's 2017 album Wriggle Out the Restless, "Earthquake" showcases Kate Stables's distinctive songwriting, which combines folk traditions with more adventurous arrangements. The Paris-based, Bristol-born musician builds the track from her characteristic fingerpicked guitar and clear, conversational vocal, gradually adding layers of brass, drums, and backing voices. The song's rhythmic complexity and textural richness belie its seemingly simple surface, reflecting Stables's background in both folk and experimental music.
+"Earthquake" — This Is the Kit
+
+"Earthquake" appears on This Is the Kit's album *Wriggle Out the Restless*, originally released in 2010 and reissued in 2013. The lyrics are oblique and incantatory: "Nobody saw, nobody followed, unbeknown and never showed / How when alone, oh how we glowed / Never saw us at our best / Two hot hearts a-drinking in our chests / But too early and too late / Too clumsy and too Kate / Too earthquake, hidden handshake."
+
+That self-referential "too Kate" is a characteristic Stables touch — wry, tender, self-deprecating, slipping her own name into a song about the tremors of connection and misconnection. The song builds around a hypnotic, almost North Mississippi hill country blues guitar pattern, minimal and propulsive, while Stables' voice floats over it with the quality of someone telling you a secret they've only half worked out themselves.
+
+*Wriggle Out the Restless* was born out of a slower way of working, gestated over a long period, drawing on This Is the Kit's many musical friends — Rozi Plain, Jim Barr of Portishead, and others — to fill out their delicate music into a full, robust sound. It was championed by Guy Garvey on BBC 6 Music and later reissued by Brassland Records after the National's Aaron Dessner became a devoted advocate.
+
+This Is the Kit is the alias of British musician Kate Stables, as well as the band she fronts. Originally from Winchester, now based in Paris by way of Bristol, Stables has been recording and releasing music since 2005. Her uniquely textured voice possesses a tone that quietly reels you in, and — following the tradition of exquisitely strange troubadours like Karen Dalton, Will Oldham, or Robert Wyatt — is simply arresting. Her first album *Krülle Bol* was produced by John Parish — PJ Harvey's longtime collaborator, connecting another thread in your constellation of artists. Now seven albums in, she's gained admirers including Sharon Van Etten, Aaron Dessner, Chris Thile, and much of BBC 6 Music. Her music is handmade, slightly askew, and deeply human — folk that isn't quite folk, songs that feel like they're still in the process of becoming themselves.
+
+---
 
 ### Endless
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Earthquake](#earthquake) · [Feather →](#feather)</sub>
+
 
 
 **Artist:** [Portico Quartet](#portico-quartet) · **Album:** [Art in the Age of Automation](#art-in-the-age-of-automation)
 
-From Portico Quartet's 2017 album Art in the Age of Automation, "Endless" reflects the group's shift from their early hang drum-centred sound toward a more electronic and ambient aesthetic. The track features shimmering synthesisers, understated percussion, and the group's signature ability to create vast, cinematic soundscapes from minimal elements. It explores the tension between human performance and digital processing, building gradually into an immersive sonic environment that justifies its title.
+The opening track of Portico Quartet's 2017 album Art in the Age of Automation, their return after a hiatus period recording as simply "Portico." The hang drum — the instrument that originally defined their sound — is prominent, alongside a stuttering electronic intro that gives way to a crisp breakbeat. The album's theme explores the tension between human and automated, with acoustic instruments mimicking electronic music.
+
+The band — Duncan Bellamy, Jack Wyllie, Milo Fitzpatrick, and Keir Vine — were Mercury Prize nominated for their debut Knee-Deep in the North Sea (2008). Released on Gondwana Records, Art in the Age of Automation marked a significant evolution toward a more electronic and ambient aesthetic. Synthesisers and electronic textures play a more prominent role, while the group's gift for creating immersive, cinematic soundscapes remains. The Gondwana connection places them alongside GoGo Penguin and Matthew Halsall in the Manchester jazz ecosystem.
 
 ### Feather
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Endless](#endless) · [Go Down Easy →](#go-down-easy)</sub>
+
 
 
 **Artist:** [Ishmael Ensemble](#ishmael-ensemble) · **Album:** [Visions of Light](#visions-of-light)
 
-From Ishmael Ensemble's album Visions of Light, "Feather" is a track from the Bristol-based collective led by multi-instrumentalist Pete Maybury. The group blends jazz improvisation, electronic production, and ambient textures into a fluid, genre-defying sound. "Feather" features the kind of spacious, meditative grooves that characterise the Bristol music scene, with dub-influenced bass, delicate keys, and subtle percussive elements creating a warm, enveloping atmosphere.
+"Feather" — Ishmael Ensemble
+
+"Feather" appears on Ishmael Ensemble's 2021 album *Visions of Light*, released on Bristol's Severn Songs label. The lyrics, written by Pete Cunningham and vocalist Holysseus Fly, are sparse and incantatory: "When I hit the ground / You laid a mattress down / It was gold with feathers / I tripped and remembered / Take me by the hand / Hand in hand." It's a song about being caught — about falling and finding someone there to break the fall, about the shock of being held.
+
+The album opens with a cascade of harp glissandos before the gorgeous "Feather" — Holysseus Fly's lush vocal lulling the listener into a false sense of security before the album takes darker, heavier turns. It's a slow but surefooted, crackly build — the instrumentation layered carefully: saxophone, MS-20 synthesizer, electric guitar, flute, harp, violin, double bass, and drums, all arranged with a restraint that lets each element breathe.
+
+*Visions of Light* was crowned Huey Morgan's Album of the Year on BBC 6 Music as well as The Guardian's Album of the Month. Named The Guardian's Contemporary Album of the Month and Mojo's Jazz Album of the Month, the debut *A State of Flow* had already established the group, and *Visions of Light* saw them further blur the lines between jazz and electronic music, taking the listener on an expansive journey while flying the flag for Bristol.
+
+Ishmael Ensemble is a British jazz collective based in Bristol, led by saxophonist and producer Pete Cunningham. Over the past seven years, Cunningham's project has gone from a humble bedroom recording project to an integral part of the thriving UK jazz scene whilst effortlessly exploring broader musical worlds. Bristol's musical DNA — Massive Attack, Portishead, Tricky — runs through Ishmael Ensemble's work in the way dub textures and spaciousness inhabit their jazz, but the group has carved out something entirely their own. Their intelligent mix of harp, saxophone, upright bass, vocals, percussion, and electronics creates a mesmerising blend of electronica, folk, and jazz — with dark echoes of Massive Attack alongside the influence of Jon Hopkins and Bon Iver.
+
+---
 
 ### Go Down Easy
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Feather](#feather) · [Goodbye Pork Pie Hat - with audience →](#goodbye-pork-pie-hat-with-audience)</sub>
+<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Feather](#feather) · [Goodbye Pork Pie Hat (with audience) →](#goodbye-pork-pie-hat-with-audience)</sub>
 
 
 **Artist:** [John Martyn](#john-martyn) · **Album:** [Solid Air](#solid-air)
@@ -287,24 +345,28 @@ The album's "often overlooked gem" — an "unbelievably beautiful, fragile numbe
 
 With no other instrumentation beyond Thompson's double bass and Martyn's acoustic guitar, "Go Down Easy" provides Thompson with ample opportunity to respond, and his playing elevates the track into one of Solid Air's finest moments. This is the second Martyn track in the playlist after "Don't Want to Know," and together they illuminate the album's duality: that song is the idealist raging against the world's horrors; this one is the same man turning to the person beside him and saying: here, at least, is something real. Thompson, of course, is also the bassist from Pentangle — the same Danny Thompson whose double bass connects folk to jazz to post-rock across five decades.
 
-### Goodbye Pork Pie Hat - with audience
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Go Down Easy](#go-down-easy) · [Heaven - Remastered →](#heaven-remastered)</sub>
+### Goodbye Pork Pie Hat (with audience)
+
 
 
 **Artist:** [Pentangle](#pentangle) · **Album:** [Sweet Child](#sweet-child)
 
-Originally composed by Charles Mingus as a tribute to Lester Young, this version by Pentangle transforms the jazz standard into something entirely new. The British folk-jazz group, featuring the extraordinary guitar interplay of Bert Jansch and John Renbourn alongside Jacqui McShee's ethereal vocals, reimagines the piece through an acoustic, folk-inflected lens. Recorded live, the performance captures the spontaneous energy and virtuosity that made Pentangle one of the most innovative groups of the late 1960s.
+Originally composed by Charles Mingus as an elegy for saxophonist Lester Young (who was known for his pork pie hat), Pentangle's version transforms the jazz standard into something entirely new — folk-chamber music of extraordinary delicacy. The British folk-jazz group reimagines the piece through acoustic, folk-inflected guitar interplay between Bert Jansch and John Renbourn, with Jacqui McShee's ethereal vocals floating above. Recorded live on the 1968 double album Sweet Child, the performance captures the spontaneous energy and virtuosity that made Pentangle one of the most innovative groups of the late 1960s.
 
-### Heaven - Remastered
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Goodbye Pork Pie Hat - with audience](#goodbye-pork-pie-hat-with-audience) · [Highway Anxiety →](#highway-anxiety)</sub>
+The group's lineup — Jansch, Renbourn, McShee, bassist Danny Thompson, and drummer Terry Cox — brought together some of the finest musicians in British folk and jazz. Both Jansch (who died in 2011) and Renbourn (2015) have since passed away. Danny Thompson, the double bassist, is also the same musician who plays on John Martyn's Solid Air tracks in this playlist — one of the invisible connecting threads.
+
+### Heaven (Remastered)
+
 
 
 **Artist:** [The Rolling Stones](#the-rolling-stones) · **Album:** [Tattoo You](#tattoo-you)
 
-A tender, understated ballad from The Rolling Stones' 1981 album Tattoo You, "Heaven" stands apart from the band's typical swagger. Mick Jagger delivers one of his most gentle vocal performances over a dreamy, reggae-tinged arrangement featuring Keith Richards's crystalline guitar work. The song, originally recorded during sessions for earlier albums, found its perfect home on Tattoo You, where Bob Clearmountain's mixing gave it an airy, spacious quality. The remastered version enhances the track's delicate textures.
+One of the most psychedelic things the Rolling Stones ever recorded. "Heaven" was recorded during a midnight session without Keith Richards or Ron Wood present — just Mick Jagger, Bill Wyman, Charlie Watts, and producer Chris Kimsey. The result is ambient, reverb-drenched, with an oriental feel completely unlike anything else in the Stones catalogue. The lyrics are ambiguous: sexual ecstasy or religious meditation? The word "heaven" never actually appears in the song.
+
+From Tattoo You (1981), an album largely assembled from outtakes spanning sessions from the mid-1970s onward. The album's commercial success (number one in both the US and UK) belied its patchwork origins. "Heaven" stands apart from the album's more typical swagger, revealing a dreamy, surrendered side of the band that rarely surfaced. The remastered version enhances the track's delicate, spacious textures.
 
 ### Highway Anxiety
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Heaven - Remastered](#heaven-remastered) · [How To Be Invisible →](#how-to-be-invisible)</sub>
+<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Heaven (Remastered)](#heaven-remastered) · [How To Be Invisible →](#how-to-be-invisible)</sub>
 
 
 **Artist:** [William Tyler](#william-tyler) · **Album:** [Modern Country](#modern-country)
@@ -314,7 +376,7 @@ Nine minutes of entirely instrumental guitar music that manages to tell a comple
 Tyler described the album Modern Country as "a love letter to what we are losing in America — to what we have already lost." The cultural geography of a vanishing America is what he senses on long road trips — "it still lives, even as the highways and high-rises push it to the fringes of the countryside." A Nashville guitarist and composer who spent years touring with Lambchop and Silver Jews, Tyler's instrumental Americana sits at the intersection of John Fahey's American Primitive guitar, Krautrock's motorik pulse, and the wide-open spaces of pedal steel country — a uniquely American form of post-rock.
 
 ### How To Be Invisible
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Highway Anxiety](#highway-anxiety) · [I Don't Believe in You - 1997 Remaster →](#i-dont-believe-in-you-1997-remaster)</sub>
+<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Highway Anxiety](#highway-anxiety) · [I Don't Believe in You (1997 Remaster) →](#i-dont-believe-in-you-1997-remaster)</sub>
 
 
 **Artist:** [Kate Bush](#kate-bush) · **Album:** [Aerial](#aerial)
@@ -323,16 +385,28 @@ This is a spell — literally structured as one. The lyrics take the form of a w
 
 From Bush's 2005 double album Aerial, released after a twelve-year absence during which she devoted herself to raising her son, Bertie. The album is divided into A Sea of Honey (standalone songs) and A Sky of Honey (a continuous 42-minute suite following a single summer day). The album cover appears to show a mountain range at sunset but is actually a waveform of a blackbird song. It competed against Gorillaz and Richard Hawley's Coles Corner at the South Bank Show Awards — a connection to this playlist. Bush became the first female artist to top the UK chart with a fully self-written song in 1978 with "Wuthering Heights." The Irish Times called her "the greatest singer-songwriter of the past forty years," noting that "there's not a spare word anywhere in Bush's work." Peter Gabriel may be the artist who came closest to sharing Bush's confluence of theatricality, urgency, and emotion — and Gabriel's "Mercy Street" is also in this playlist.
 
-### I Don't Believe in You - 1997 Remaster
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← How To Be Invisible](#how-to-be-invisible) · [John Cope →](#john-cope)</sub>
+### I Don't Believe in You (1997 Remaster)
+
 
 
 **Artist:** [Talk Talk](#talk-talk) · **Album:** [The Colour of Spring](#the-colour-of-spring)
 
-From Talk Talk's 1986 album The Colour of Spring, "I Don't Believe in You" captures the band at a pivotal moment between their synth-pop origins and the experimental masterpieces that followed. Mark Hollis's passionate vocal rides atop a rich arrangement featuring Steve Winwood's organ, David Rhodes's guitar, and lush orchestration. The song builds with a controlled intensity that anticipates the dynamics of Spirit of Eden, while retaining enough pop structure to remain accessible.
+"I Don't Believe in You" — Talk Talk
+
+"I Don't Believe in You" was released in November 1986 as the fourth and final single from Talk Talk's third album *The Colour of Spring*. Written by Mark Hollis and Tim Friese-Greene, it peaked at number 96 in the UK Singles Chart. It's the album's most passionate track — it showcases the band's mastery of dynamics, building from whispered intimacy to soaring release.
+
+Hollis gave unusually concrete answers about its meaning in a Dutch interview: "'I Don't Believe in You' has as its subject the propaganda films in which the government promised in 1945 that now everything would be as fantastic. Look what is reality." The ambiguity is reinforced when Hollis alters the lyric to "I don't believe *you*," shifting the focus from wholesale disbelief to a more targeted, personal scepticism. As he sang on the track, "I'm trying to leave some self-respect."
+
+Consider the composition: organ drops in every so often, a heavily affected guitar bleats twice at the beginning, a mellotron dances in then vanishes, a saxophone is added very low in the mix during the last build-up. These elements are sprinkled throughout until they become not only part of the whole, but the whole itself. It's a masterclass in song composition technique. The sparkling arrangement is augmented by the clear, rippling tones of Gaynor Sadler's harp, with Steve Winwood contributing searing organ.
+
+*The Colour of Spring* is Talk Talk's third studio album, released on 17 February 1986. It combines elements of jazz and art pop in an effort by Hollis to embrace more organic instrumentation. Unlike previous albums, synthesizers are rarely featured, being replaced by guitar, piano, and organ. It became their greatest commercial success, reaching the UK Top 10 and spawning the hits "Life's What You Make It" and "Living in Another World." It's commonly viewed as a bridge between Talk Talk's earlier synth-pop sound and their later, more improvisation-based work — the hinge point between the pop band and the visionaries of *Spirit of Eden* and *Laughing Stock*.
+
+We profiled Talk Talk in detail with "The Rainbow" at the beginning of this conversation. "I Don't Believe in You" sits on the other side of that divide — it's still recognisably a pop song, with hooks and structure and a single release, but the seeds of what would follow are everywhere: the space, the dynamics, the refusal to fill every moment with sound. You can draw a direct line from *The Colour of Spring* to bands like Radiohead, Sigur Rós, and countless others. It's not just a great album — it's a foundational text.
+
+---
 
 ### John Cope
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← I Don't Believe in You - 1997 Remaster](#i-dont-believe-in-you-1997-remaster) · [Le soleil est pres de moi →](#le-soleil-est-pres-de-moi)</sub>
+<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← I Don't Believe in You (1997 Remaster)](#i-dont-believe-in-you-1997-remaster) · [Le soleil est pres de moi →](#le-soleil-est-pres-de-moi)</sub>
 
 
 **Artist:** [Talk Talk](#talk-talk) · **Album:** [I Believe in You](#i-believe-in-you)
@@ -342,15 +416,29 @@ A deep cut — the B-side to the only single released from Spirit of Eden. Origi
 The song belongs to a "missing" album between Colour of Spring and Spirit of Eden — a transitional work that was never gathered together. The name itself is intriguing: when Hollis later recorded a pseudonymous piano piece for the 1998 album AV 1 by Allinson/Brown (produced by Phill Brown), he credited himself as "John Cope" — using the song title as a ghost-identity. Whether "John Cope" was ever a real person, or simply a vessel for a particular kind of stripped-back honesty, remains one of those Talk Talk mysteries Hollis never explained.
 
 ### Le soleil est pres de moi
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← John Cope](#john-cope) · [Let's Go Out Tonight →](#lets-go-out-tonight)</sub>
+
 
 
 **Artist:** [Air](#air) · **Album:** [Premiers Symptomes](#premiers-symptomes)
 
-From Air's 1997 debut EP Premiers Symptomes, "Le soleil est pres de moi" ("The Sun Is Near Me") is a languid, sun-drenched piece of electronic pop that established the French duo's signature aesthetic. Warm analogue synthesisers, a gently propulsive bass line, and dreamy production create an atmosphere of effortless sophistication. The track, largely instrumental with minimal vocal elements, evokes lazy summer afternoons and a specifically French sense of cool that would reach its full expression on Moon Safari.
+"Le Soleil Est Près De Moi" — Air
+
+"Le Soleil Est Près De Moi" ("The Sun Is Close to Me") is a track from Air's debut EP *Premiers Symptômes* (1995–1997), and according to the band's own assessment, it may be their finest work. Nicolas Godin said: "It's the best song we ever did. It proves the best that you do isn't always the most successful. It came very naturally. The hard thing was finding a sentence to express the feeling we had. It was winter, so we wanted to have the sun near us. We did it in my living room before we were official artists, and we had so many problems with neighbours complaining about the noise of the Fender Rhodes."
+
+The lyrics are minimal to the point of incantation — just the title phrase repeated like a mantra, with the English addition "Anywhere, I want you / Anywhere I want." The repetition emphasises a feeling of comfort and warmth, as if the sun's presence is a constant, reassuring force — a metaphor for a source of happiness or a person who brings light into the singer's life. The Fender Rhodes, the Moog, the Solina strings, the vocoder — all of Air's signature textures are already present, radiating that particular warmth that would define *Moon Safari*. But there's something rawer here, something more intimate — two men in a living room in winter, conjuring the sun.
+
+**The EP: Premiers Symptômes**
+
+*Premiers Symptômes* ("First Symptoms") consists of singles issued between 1995 and 1997, co-produced with Étienne de Crécy. It completely sets the scene for *Moon Safari* — five excellent tracks, nothing sub-standard, warm, comforting, and downright pleasant to listen to. "Les Professionnels" was later reworked into "All I Need" on *Moon Safari*, but "Le Soleil Est Près De Moi" remained unique to this collection — a jewel that never got the showcase it deserved.
+
+**The Artists**
+
+We profiled Air in detail with "Talisman" earlier. What "Le Soleil Est Près De Moi" reveals is that the magic was already there before *Moon Safari*, before the fame, before Abbey Road. Dunckel had studied mathematics at the Conservatoire in Paris, with tastes ranging from Ravel to Joy Division to Grace Jones. Godin was an architecture student who dabbled in soul and hip-hop. After their band Orange disbanded, Godin recruited Dunckel, and Air was born. This track is the sound of that birth — two friends making something beautiful in a living room while the neighbours bang on the walls.
+
+---
 
 ### Let's Go Out Tonight
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Le soleil est pres de moi](#le-soleil-est-pres-de-moi) · [Life's What You Make It - 1997 Remaster →](#lifes-what-you-make-it-1997-remaster)</sub>
+<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Le soleil est pres de moi](#le-soleil-est-pres-de-moi) · [Life's What You Make It (1997 Remaster) →](#lifes-what-you-make-it-1997-remaster)</sub>
 
 
 **Artist:** [The Blue Nile](#the-blue-nile) · **Album:** [Hats](#hats)
@@ -359,7 +447,7 @@ From Air's 1997 debut EP Premiers Symptomes, "Le soleil est pres de moi" ("The S
 
 Hats was released on 9 October 1989 to rave reviews, including a rare five-star rating from Q magazine. It reached number 12 on the UK chart. It came after a prolonged delay in which an entire album's worth of work was scrapped — the band had been forced to share a house, arguments developed, and they were being sued by Virgin. When they returned to Glasgow, Buchanan overcame his writer's block: "We actually recorded the rest of Hats super quick... Honestly, half of Hats was, like, a week." The album is largely inspired by crumbling relationships, including Buchanan's own parents' breakup after a decades-long marriage. One devoted listener wrote: "Hats is the sound of the first year of our real life together. This is the sound of us. Every second of this album is about love." Taylor Swift name-checked The Blue Nile on The Tortured Poets Department in 2024.
 
-### Life's What You Make It - 1997 Remaster
+### Life's What You Make It (1997 Remaster)
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Let's Go Out Tonight](#lets-go-out-tonight) · [Mercy Street →](#mercy-street)</sub>
 
 
@@ -370,20 +458,34 @@ The hinge of Talk Talk's career — the song that was both their biggest hit and
 This is a fascinating pick alongside "Let's Go Out Tonight" — both are 1980s songs with deceptively simple titles that sound like invitations but feel like elegies. And both bands — Talk Talk and The Blue Nile — were notorious perfectionists who made very few albums and let silence do the work that other bands fill with noise. In this playlist, "Life's What You Make It" is the last moment Talk Talk stood in the spotlight before walking deliberately into the dark.
 
 ### Mercy Street
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Life's What You Make It - 1997 Remaster](#lifes-what-you-make-it-1997-remaster) · [Murmuration →](#murmuration)</sub>
+
 
 
 **Artist:** [Peter Gabriel](#peter-gabriel) · **Album:** [So](#so)
 
-One of the centrepieces of Peter Gabriel's 1986 album So, "Mercy Street" was inspired by the poetry of Anne Sexton, particularly her collection 45 Mercy Street. Gabriel creates a dreamlike soundscape of synthesisers, Fairlight samples, and hushed vocals that evokes Sexton's explorations of memory, faith, and mental anguish. Daniel Lanois's production gives the track a warm, enveloping quality, with layers of sound that seem to breathe and pulse. It remains one of Gabriel's most atmospheric and emotionally resonant compositions.
+"Mercy Street" — Peter Gabriel
+
+"Mercy Street" is a song from Peter Gabriel's fifth studio album *So* (1986). It was inspired by the personal and confessional works of the American poet Anne Sexton, who wrote a play titled *Mercy Street* and a poem titled "45 Mercy Street." Gabriel had acquired a collection of Sexton's work at a bookshop in New York City.
+
+Gabriel could relate to Sexton as a deep thinker with a troubling depression who searches for meaning through her art. He used the image of darkness on Mercy Street to signal her depression. The song places us inside Sexton's world — the empty streets, the broken glass, the steam, the dreams made solid, the corridors of pale green and grey. "He's the priest, he's the doctor; he can handle the shocks" references Sexton's therapist, while "Anne with her father is out in the boat" alludes to her final book of poetry, *The Awful Rowing Toward God*, published after she took her own life in 1974.
+
+Development began with percussion tracks recorded by Djalma Corrêa in Brazil. During one recording session, the whole song was accidentally played back ten percent slower, giving the Brazilian percussion a grainy quality that became part of the track's hypnotic, dreamlike character. Gabriel was obsessive about getting the right bass part — longtime collaborator Tony Levin couldn't provide what "fit the picture," so Larry Klein was brought in. Through a meticulous process of subtraction, layers of piano and saxophone were removed until only the essentials remained.
+
+Gabriel managed to build something haunting and beautiful from an idea so dark and lonely. NME listed it as one of the "10 Most Depressing Songs Ever," describing it as a "beautifully produced number" and concluding that "it isn't until you're a few listens in that you understand how devastating the whole thing is."
+
+*So* (1986) was Gabriel's commercial breakthrough — the album that gave the world "Sledgehammer," "In Your Eyes," and "Big Time." But "Mercy Street" is its dark heart, the track that reminds you this is an artist who had always been drawn to difficult, uncomfortable subjects. The contrast between the exuberant pop of the singles and the devastating intimacy of "Mercy Street" is part of what makes *So* such a rich, complex record — it's not just a pop album that happens to contain a dark song, but an album that insists pop and darkness can coexist without either diminishing the other.
+
+Peter Gabriel (born 1950, Chobham, Surrey) co-founded Genesis at school in 1967 and served as their theatrical, conceptually ambitious frontman until leaving in 1975. His solo career has been marked by a restless eclecticism — world music, art rock, film scoring, technology — and a willingness to take enormous commercial risks. He founded the WOMAD festival, built Real World Studios, and helped pioneer the use of world music influences in Western pop. The end of "Mercy Street" was very intense when Gabriel pe
 
 ### Murmuration
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Mercy Street](#mercy-street) · [New Moon →](#new-moon)</sub>
+
 
 
 **Artist:** [GoGo Penguin](#gogo-penguin) · **Album:** [v2.0](#v20)
 
-From GoGo Penguin's breakout album v2.0, "Murmuration" takes its name from the mesmerising aerial displays of starling flocks. The Manchester-based acoustic-electronic trio creates a piece that mirrors this natural phenomenon, with pianist Chris Illingworth's cascading patterns, Nick Blacka's propulsive bass, and Rob Turner's intricate drumming generating waves of momentum that ebb and flow organically. The track exemplifies the group's ability to bridge jazz, classical minimalism, and electronic music.
+The opening track of GoGo Penguin's breakout album v2.0 (2014), named after the mesmerising aerial displays of starling flocks — thousands of birds moving in perfect coordination with no single leader. The music mirrors this phenomenon: pianist Chris Illingworth's cascading patterns, Nick Blacka's propulsive bass, and Rob Turner's intricate drumming generating waves of momentum that ebb and flow organically. It begins with a slow, hypnotic build that gradually accumulates unstoppable momentum.
+
+The Manchester-based trio were nominated for the Mercury Prize for v2.0, released on Matthew Halsall's Gondwana Records. They bridge jazz, classical minimalism, and electronic music — their compositions start electronically then translate to acoustic instruments, reversing the usual process. Rob Turner later departed and was replaced by Jon Scott. The band represents a new generation of British jazz that refuses to accept genre boundaries.
 
 ### New Moon
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Murmuration](#murmuration) · [Observatory Crest →](#observatory-crest)</sub>
@@ -396,12 +498,22 @@ The title track of Almunia's debut album — six and a half minutes of slow-buil
 Almunia is an Italian electronic duo — Leonardo Ceccanti (guitars, bass, keyboards, vocals) and Gianluca Salvadori (turntables, production). Their debut was released in 2011 on the British label Claremont 56, which specialises in the warm intersection of disco, dub, and psychedelia — records designed for sunsets and the hour after them. Hand-numbered gatefold copies now sell on Discogs for around £170, and the album carries a near-perfect 4.82 out of 5 rating from 114 ratings — suggesting an intensely devoted following. This is a genuinely obscure pick in the context of this playlist: music found through listening rather than through media, through following a thread of sound rather than reputation.
 
 ### Observatory Crest
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← New Moon](#new-moon) · [Paper Tiger →](#paper-tiger)</sub>
+
 
 
 **Artist:** [Captain Beefheart and His Magic Band](#captain-beefheart-and-his-magic-band) · **Album:** [Blue Jeans and Moonbeams](#blue-jeans-and-moonbeams)
 
-From Captain Beefheart and His Magic Band's 1974 album Blue Jeans and Moonbeams, "Observatory Crest" is one of the most conventionally beautiful songs in Beefheart's catalogue. A gentle, almost pastoral ballad, it stands in stark contrast to the confrontational experimentalism of albums like Trout Mask Replica. Don Van Vliet's vocal is tender and restrained, accompanied by warm, melodic guitar work. The song reveals a lyrical, romantic side of Beefheart that was always present but rarely given such open expression.
+"Observatory Crest" — Captain Beefheart & His Magic Band
+
+"Observatory Crest" is a very simple song: a guy and his girl drive up to a place high above Los Angeles after a gig and admire the view. Observatory Crest is actually a spot where people would "make out" — one of those places from high school where people would take their sweethearts, out in Antelope Valley where Don Van Vliet lived for a time. Before smog overtook the valley, you could see everything.
+
+If there is indeed a season for every song, "Observatory Crest" is unequivocally late summer. Particularly late summer in Los Angeles. It hangs in a liminal space somewhere between revisiting a journal entry and bittersweet nostalgia. The lyrics are charming and deliberately unpolished — "we'd just saw the concert and heard all the best / thought we'd saw flying saucers and all of the rest" — with Beefheart's characteristic disregard for grammatical convention giving the words a childlike, diaristic quality. It's tender, dreamy, and shockingly gentle from a man known for some of the most abrasive music ever recorded.
+
+The uncharacteristically mainstream album *Bluejeans & Moonbeams* (1974) is widely considered Beefheart's worst album — but that's precisely what makes "Observatory Crest" so surprising. Stripped of the angular mayhem of *Trout Mask Replica* or the experimental fury of *Lick My Decals Off, Baby*, Beefheart here reveals a capacity for simple, aching beauty that his avant-garde reputation usually obscures. Sometimes the most revealing moments in an artist's catalogue are the ones that don't fit.
+
+Captain Beefheart was Don Van Vliet (1941–2010), one of the most singular figures in twentieth-century music. A childhood friend of Frank Zappa, he formed the Magic Band in the mid-1960s and proceeded to create music that defied every convention of rock, blues, and pop — polyrhythmic, atonal, surreal, and performed by musicians he often controlled with almost dictatorial intensity. *Safe as Milk* (1967) featured a young Ry Cooder on guitar — connecting Beefheart to the Ry Cooder who would go on to score *Paris, Texas*, another song on your list. His masterpiece *Trout Mask Replica* (1969) remains one of the most challenging and influential albums ever made. He retired from music in 1982 to devote himself to painting, and lived in seclusion until his death from multiple sclerosis. "Observatory Crest" is a reminder that behind all the wildness was a man who could drive up a hill with someone he loved and simply look at the view.
+
+---
 
 ### Paper Tiger
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Observatory Crest](#observatory-crest) · [Paris, Texas →](#paris-texas)</sub>
@@ -414,44 +526,82 @@ A key song on Sea Change. Much of the album has Beck feeling deeply lonesome or 
 The orchestral solo is remarkable: Beck told NPR that "there's a whole solo that the orchestra does; that was actually something I sang, and then we just transcribed it." His father David Campbell arranged those strings. Bassist Justin Meldal-Johnsen played a Guild Starfire through a B-15R with a pick, openly inspired by Gainsbourg's Histoire de Melody Nelson. This is the second Sea Change track in the playlist after "The Golden Age" — and they work as a pair: that one is the numb driving-at-night opener; this is the moment the fog clears enough to see what you've lost and begin, almost imperceptibly, to move past it.
 
 ### Paris, Texas
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Paper Tiger](#paper-tiger) · [Someday →](#someday)</sub>
+
 
 
 **Artist:** [Ry Cooder](#ry-cooder) · **Album:** [Music by Ry Cooder](#music-by-ry-cooder)
 
-Ry Cooder's theme from Wim Wenders' 1984 film Paris, Texas is one of the most recognisable pieces of film music ever composed. Cooder's slide guitar, played with a bottleneck on a simple acoustic, evokes the vast, empty landscapes of the American Southwest with an aching simplicity that is deeply moving. The piece draws on the tradition of blues and Hawaiian slack-key guitar, its spare, resonant tones creating a sense of loneliness, longing, and endless horizon that perfectly mirrors the film's themes.
+"Paris, Texas" — Ry Cooder
+
+The title track from Ry Cooder's 1985 soundtrack for Wim Wenders' Palme d'Or-winning film. Recorded over just three days, the music provides a plangent underpinning for Wenders' postcard renderings of Americana. It's a single slide guitar, alone, unhurried, sounding like heat shimmer made audible — the vast emptiness of the Texas desert rendered in a handful of notes. The guitar becomes almost an additional character in the film, indicating wide spaces and physical and emotional desolation through open harmonies and sparse texture.
+
+The entire score was based on the harmonies of Blind Willie Johnson's 1927 recording "Dark Was the Night, Cold Was the Ground." Wenders had secretly inserted Cooder's earlier cover of the song into a rough cut of the film. When Cooder saw it, he turned around and said: "That's it, that's what we're gonna do."
+
+The soundtrack marries Ennio Morricone's spaghetti-western sensibilities with the freestyle film-score anarchy of Miles Davis. Its desert evocations contradict the pervasive din of planes, trains and automobiles, with a whistling, string-skimming technique that summons swirling sands and whispers carried on the wind. With just a few notes, Cooder conjures an incredible musical landscape that places the listener right at the American-Mexican border. It's likely the soundtrack has become more famous than the film itself.
+
+Ry Cooder (born 1947, Los Angeles) is a slide guitar virtuoso, musicologist, and cultural archaeologist whose career has been devoted to excavating and honouring the roots of global music. He played with Captain Beefheart as a teenager, contributed to the Rolling Stones' *Let It Bleed* and *Sticky Fingers*, explored Hawaiian, Tex-Mex, gospel, and ragtime on his solo albums, collaborated with Ali Farka Touré on the Grammy-winning *Talking Timbuktu*, and was central to the *Buena Vista Social Club* project that brought Cuban son music to the world. "Paris, Texas" remains his most recognised work — proof that one instrument, played with enough soul and space, can contain an entire landscape.
+
+---
 
 ### Someday
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Paris, Texas](#paris-texas) · [Sound and Vision →](#sound-and-vision)</sub>
+
 
 
 **Artist:** [Virgil Howe](#virgil-howe) · **Album:** [Someday](#someday-1)
 
-A track from Virgil Howe's album of the same name, "Someday" showcases the multi-instrumentalist and producer's talent for crafting atmospheric, groove-driven compositions. Son of Yes guitarist Steve Howe, Virgil carved his own path with a sound that blends electronic production, jazz sensibilities, and ambient textures. The track features warm, enveloping layers of sound that create a contemplative mood, driven by subtle rhythmic patterns and melodic fragments.
+An electronic/big beat track that samples Joe Pass's "A Time for Us," released as a single in 2009. The song's themes circle a relationship in trouble — the gap between intention and action, promises made but not kept. Warm, enveloping layers of sound create a contemplative mood driven by subtle rhythmic patterns.
+
+Virgil Howe (1975–2017) was the son of Yes guitarist Steve Howe, but carved his own path as a drummer, producer, and DJ. He was the drummer for Little Barrie and co-wrote the theme music for Better Call Saul. He died unexpectedly at the age of 41, leaving behind a body of work that showcased his versatile musicality. His music blended jazz, electronic, and ambient elements with an instinct for groove that set him apart from his progressive rock heritage.
 
 ### Sound and Vision
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Someday](#someday) · [Talisman →](#talisman)</sub>
+
 
 
 **Artist:** [David Bowie](#david-bowie) · **Album:** [Sound and Vision](#sound-and-vision-1)
 
-One of David Bowie's most beloved songs, "Sound and Vision" was released in 1977 as part of the Low album, his first collaboration with Brian Eno in Berlin. The track is notable for its extended instrumental introduction, which delays Bowie's vocal entry until nearly halfway through. When his voice finally appears, it delivers a compact, almost throwaway lyric about creative withdrawal. The production, featuring Mary Hopkin's backing vocals and innovative use of the Harmonizer, created a template for post-punk and new wave that followed.
+"Sound and Vision" — David Bowie
+
+"Sound and Vision" was released in January 1977 on side one of Bowie's eleventh studio album *Low*. Co-produced by Bowie and Tony Visconti, it was recorded at the Château d'Hérouville in France and completed at Hansa Studios in West Berlin. It's oddly structured — beginning as an instrumental, elements are added throughout; Bowie's vocals don't appear for over a minute and a half.
+
+Bowie described it as "a very sad song for me. I was trying very hard to drag myself out of an awful period of my life. I was locked in a room in Berlin telling myself I was going to straighten up and not do drugs anymore." He said the song was about "wanting to be put in a little cold room with omnipotent blue on the walls and blinds on the windows."
+
+The song offers a humble wish: "I will sit right down, waiting for the gift." No grand gestures, just a man at a piano, hoping the notes come, that some words appear. It's Bowie wondering aloud if he could ever write a song like "Life on Mars?" again, and he doesn't seem troubled if he can't. He's content to have come this far. The upbeat music contrasts with Bowie's low-key vocals and lyrics dwelling on isolation and the absence of inspiration.
+
+*Low* (1977) is the first of Bowie's Berlin Trilogy with Brian Eno and Tony Visconti. Bowie described it as "a reaction to having gone through that peculiar, dull greenie-grey limelight of America and its repercussions; pulling myself out of it and getting to Europe." The album's first side contains short, fractured pop songs; the second side is entirely ambient instrumentals. It was a radical departure — RCA Records were horrified — but it became one of the most influential albums of its era. Backing vocals on "Sound and Vision" came from Brian Eno and Mary Hopkin, the folk-pop singer and then-wife of producer Tony Visconti, who was reluctantly recruited from the château's lounge where she'd been pushing a baby round in a pushchair.
+
+David Bowie (1947–2016) needs little introduction, but "Sound and Vision" captures him at a specific, crucial turning point — the moment he stopped performing characters and started trying to save his own life. After the cocaine-fuelled paranoia of his LA years, the Thin White Duke persona, and an era he later claimed to barely remember, Bowie fled to Berlin with Iggy Pop in an attempt to get clean. The music he made there — *Low*, *"Heroes"*, *Lodger* — remains some of the most influential of the twentieth century. "Sound and Vision" is its most accessible moment: a pop song about emptiness, a hit about creative paralysis, a minute and a half of instrumental patience before a voice finally appears, as if even the singer wasn't sure he'd show up.
+
+---
 
 ### Talisman
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Sound and Vision](#sound-and-vision) · [The Garden →](#the-garden)</sub>
+
 
 
 **Artist:** [Air](#air) · **Album:** [Moon Safari](#moon-safari)
 
-An instrumental track from Air's landmark 1998 debut Moon Safari, "Talisman" showcases the French duo's gift for crafting dreamy, retro-futuristic soundscapes. Jean-Benoit Dunckel and Nicolas Godin layer vintage synthesisers, gentle bass, and subtle electronic textures to create a piece that evokes the space-age optimism of 1960s lounge music filtered through a modern electronic sensibility. The track floats with an effortless elegance that typifies the album's sophisticated chill.
+An instrumental from Air's landmark 1998 debut Moon Safari with a galloping bassline and lush strings recorded at Abbey Road with arranger David Whitaker. The track sounds like a James Bond theme reimagined as a reverie — cinematic grandeur filtered through analogue warmth. It showcases the French duo's gift for crafting dreamy, retro-futuristic soundscapes.
+
+Nicolas Godin and Jean-Benoît Dunckel met at college in Versailles. Moon Safari was recorded partly on an 8-track with vintage synthesisers, its retro-futurist sound blending 1960s lounge, soft-focus psychedelic rock, and the optimistic glow of early electronic music. The album proved hugely influential on the wave of downtempo electronic music that followed. The strings, recorded at Abbey Road, give tracks like "Talisman" an orchestral sweep that belies the album's intimate origins.
 
 ### The Garden
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Talisman](#talisman) · [The Gift →](#the-gift)</sub>
+
 
 
 **Artist:** [PJ Harvey](#pj-harvey) · **Album:** [Is This Desire](#is-this-desire)
 
-From PJ Harvey's 1998 album Is This Desire, "The Garden" is a dark, atmospheric track that exemplifies the album's shift toward electronic textures and more introverted songwriting. Harvey's voice is layered and processed, floating over a sparse arrangement of bass, drums, and subtle electronic elements. The song's imagery is rich with natural symbolism, creating a sense of enclosed, secret spaces. It demonstrates Harvey's willingness to experiment with sound and mood at the expense of conventional accessibility.
+"The Garden" — PJ Harvey
+
+"The Garden" is from PJ Harvey's 1998 album *Is This Desire?* — not *The Hope Six Demolition Project* as I mistakenly said earlier. The lyrics conjure imagery of a figure walking in a garden at night, singing a sad love song, praying for his life, looking at his songbird and wings — like a fallen angel wandering through Eden. The song is mellow and atmospheric, with drums that sound completely manufactured at the start — a drum machine that then transforms into something acoustic, faux-drums in jungle sounds.
+
+It's a song of watching and waiting, of someone observed from a distance who seems caught between grace and ruin. The garden is both paradise and prison — a recurring image throughout literature and religion, and one Harvey uses with her characteristic ambiguity.
+
+*Is This Desire?* is Harvey's fourth studio album, released in 1998. It marked a move away from her earlier guitar-driven rock style into subtler, quieter, atmospheric soundscapes and mood pieces based around keyboards, bass, and electronics. It was co-produced by Flood, Head, and Harvey herself. Q magazine praised it as "one of the most artfully truncated missives of bleakness and pain," while Dazed & Confused called it a record with "the impeccable timing of jazz, the arrangement of a classic dance track, the depth of an orchestral symphony and the emotional charge of gospel."
+
+Harvey herself has spoken of it with particular pride: "I do think *Is This Desire?* is the best record I ever made — maybe ever will make — and I feel that that was probably the highlight of my career. I gave 100 per cent of myself to that record."
+
+We've travelled with PJ Harvey through "White Chalk," "We Float," and "This Mess We're In" already in this conversation. "The Garden" sits chronologically between the raw, confrontational early work and the New York romance of *Stories from the City* — it's the album where Harvey first fully embraced electronics and atmosphere, where she became less a blues-rock songwriter and more something closer to a sonic sculptor. It's the hinge point in her career, the moment she proved she could do anything.
+
+---
 
 ### The Gift
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Garden](#the-garden) · [The Golden Age →](#the-golden-age)</sub>
@@ -464,31 +614,49 @@ A confession. God had offered Hollis great talent — "purest, purest" — but h
 AllMusic called the album "quite possibly the most quiet and intimate record ever made." It was originally intended as a Talk Talk album titled "Mountains of the Moon." Hollis told Music Minded: "I wanted to make a record where you can't hear when it has been made," citing Miles Davis and Gil Evans's Sketches of Spain as models. The sessions used only two microphones — "recording in its purest form." Engineer Phill Brown, who had also recorded Laughing Stock, found the solo album "the opposite — open, restful and at times fantastically beautiful." Hollis walked away from music after its release: "The way I think about it is to try and make an album that is unique. To make an album that could exist outside of the period in which it's written and recorded — that's the aim." He died on 25 February 2019, having preferred quiet seclusion and family to public life.
 
 ### The Golden Age
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Gift](#the-gift) · [The Ocean →](#the-ocean)</sub>
+
 
 
 **Artist:** [Beck](#beck) · **Album:** [Sea Change](#sea-change)
 
-The opening track of Beck's 2002 album Sea Change, "The Golden Age" sets the tone for what became his most emotionally raw record. Written in the aftermath of a painful breakup, the song unfolds slowly over acoustic guitar and Nigel Godrich's atmospheric production, with Beck's vocal conveying a profound sense of loss and nostalgia. The track's expansive arrangement, featuring strings and pedal steel, creates a vast, melancholic landscape that suggests both endings and the possibility of renewal.
+The opening track of Beck's 2002 album Sea Change. "Put your hands on the wheel / Let the golden age begin" — but this isn't celebration; it's the memory of a beginning viewed from the wreckage of an ending. The song unfolds slowly over acoustic guitar and Nigel Godrich's atmospheric production, with Beck's vocal conveying a profound sense of loss. His father David Campbell arranged the strings; the pedal steel creates a vast, melancholic landscape.
+
+Written after Beck's fiancée ended their nine-year relationship — he discovered she had been having an affair just weeks before his 30th birthday. He wrote most of the album's songs in one week but shelved them, feeling they were too personal. Sea Change has been called "Beck's Blood on the Tracks." The album was recorded in just three weeks with Godrich, who had produced Radiohead's work and would go on to produce The King of Limbs — another album represented in this playlist.
 
 ### The Ocean
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Golden Age](#the-golden-age) · [The Rainbow - 1997 Remaster →](#the-rainbow-1997-remaster)</sub>
+
 
 
 **Artist:** [Richard Hawley](#richard-hawley) · **Album:** [Coles Corner](#coles-corner)
 
-A majestic ballad from Richard Hawley's 2005 album Coles Corner, "The Ocean" showcases the Sheffield singer's rich baritone and his gift for sweeping, cinematic arrangements. Drawing on the tradition of Roy Orbison and Scott Walker, Hawley crafts a song of grand romantic longing, with orchestral strings and tremolo guitar creating a vast emotional landscape. The track builds to a powerful climax, demonstrating why Hawley is considered one of the finest balladeers of his generation.
+"The Ocean" — Richard Hawley
 
-### The Rainbow - 1997 Remaster
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Ocean](#the-ocean) · [The Spoils →](#the-spoils)</sub>
+"The Ocean" is from Richard Hawley's 2005 album *Coles Corner* — a genuinely grand and majestic song that starts slowly and quietly before building into something vast and enveloping. The repeated journey "down, to the ocean" is a metaphor for finding solace and healing in the arms of love. The lyrics carry both tenderness and shadow — "It helps the heart to heal / You know it breaks the seal of the talisman that harms" — suggesting love as a breaking of spells, a dissolution of old pain.
+
+The song is about returning to a place of familiarity and comfort with someone you've shared a wealth of experiences with. But there's a darker reading too — the relentless "here comes the wave" is both a warning and an embrace, and being alone with the mess of your feelings can feel like drowning. The question "why are you still dressed in your mourning suit?" hangs in the air — grief and love occupying the same body, the same shoreline.
+
+*Coles Corner* is Hawley's fourth studio album, named after a legendary Sheffield meeting place for lovers. It was nominated for the 2006 Mercury Prize. AllMusic said "early rock and roll, rockabilly, country, vintage-40s pop, jazz, and blues fall together in a seamless, nearly rapturous whole." Mojo called it "a glorious mélange of love, loss, regret, homesickness and romance." The more you listen to it, the more you realise how ambitious and radical an album it is — defiantly retro in an era obsessed with the new, and completely without irony or apology.
+
+Richard Hawley (born 1967, Sheffield) is a guitarist, singer, songwriter, and producer who began his career as a member of Pulp and the Longpigs before launching a solo career devoted to a lush, unapologetically retro sound. His deep baritone has drawn comparisons to Scott Walker, Roy Orbison, and Chris Isaacs, but Hawley's voice is entirely his own — warm, wounded, capable of making the most ordinary human experiences feel cinematic. His complete lack of irony and bombast makes it work — his music is achingly beautiful, disarmingly intimate, rooted in Sheffield the way Bruce Springsteen's is rooted in New Jersey. "The Ocean" is perhaps his finest moment: a song where the sea becomes both the vastness of love and the overwhelming force of feeling, where healing and drowning are separated by nothing more than the presence of another person's hand.
+
+---
+
+That covers all eight. What strikes me looking back across this entire conversation is how interconnected your taste is — John Parish produces both PJ Harvey and This Is the Kit; Gondwana Records houses GoGo Penguin, Portico Quartet, and Halsall; Danny Thompson links Pentangle to John Martyn; the spiritual jazz of Alice Coltrane and Pharoah Sanders runs through Halsall and into De Biasio. You haven't just been giving me songs — you've been tracing a map of a musical world that hangs together with remarkable coherence, bound by a shared devotion to atm
+
+### The Rainbow (1997 Remaster)
+
 
 
 **Artist:** [Talk Talk](#talk-talk) · **Album:** [Spirit of Eden](#spirit-of-eden)
 
-The closing track of Talk Talk's masterpiece Spirit of Eden, "The Rainbow" is a sprawling nine-minute meditation that drifts between near-silence and moments of transcendent beauty. Built from fragments of organ, harmonica, and choir, the piece unfolds with an improvisatory patience rarely heard in pop music. Mark Hollis's fragile vocal appears only briefly, leaving space for an extraordinary ensemble of session musicians to weave delicate textures. The 1997 remaster brings added clarity to the recording's remarkable dynamics, from barely audible whispers to sudden crescendos of distorted guitar.
+The opening track of Talk Talk's 1988 album Spirit of Eden, written by Mark Hollis and producer Tim Friese-Greene. It begins with a lonely, solitary trumpet note, followed by a swelling ambient soundscape that evokes the feeling of an orchestra waking up — a sense of morning, of promise mixed with anxiety and loneliness.
+
+Lyrically, the song deals with themes of injustice, corruption, and a broken legal system. The opening lines — about the world being turned upside down and "Jimmy Finn" being released — suggest disbelief at a miscarriage of justice. The refrain questioning fairness drives home a deep frustration with systemic failure. The song also carries threads of remorse and self-reflection. It's sparse, cryptic poetry — Hollis never spelled things out, leaving space for the listener to inhabit. Musically, it deliberately deviates from traditional pop structure, building slowly with enormous dynamic contrasts — near-silence giving way to a powerful, emotional chorus.
+
+Spirit of Eden was recorded over about a year at Wessex Studios in London, often in complete darkness. The band recorded hours of improvised performances drawing on jazz, ambient, classical, blues, and dub, then heavily edited these into the final arrangements. Sixteen musicians contributed, and the results were so far removed from their synth-pop origins that EMI doubted it could sell. The label asked Hollis to re-record material; he refused. The album was a commercial disappointment at the time, but is now widely credited with pioneering the post-rock genre — influencing Bark Psychosis, Sigur Rós, Radiohead, and Godspeed You! Black Emperor.
 
 ### The Spoils
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Rainbow - 1997 Remaster](#the-rainbow-1997-remaster) · [The Watershed →](#the-watershed)</sub>
+<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Rainbow (1997 Remaster)](#the-rainbow-1997-remaster) · [The Watershed →](#the-watershed)</sub>
 
 
 **Artist:** [Massive Attack and Hope Sandoval](#massive-attack-and-hope-sandoval) · **Album:** [The Spoils](#the-spoils-1)
@@ -508,20 +676,24 @@ The album's second track and one of the only two songs with anything approaching
 A Rate Your Music reviewer described the moment at 3:20 "when the chords step gently up into a solidity that the rest had been wandering toward, like finding the well-water." The title resonates: a watershed is both a geographical dividing line and a moment of irreversible change. This song sits at exactly that point on the album — the threshold between the opening hymnal and the deeper, more labyrinthine material that follows.
 
 ### TheWhisperers
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← The Watershed](#the-watershed) · [This Mess We're In →](#this-mess-were-in)</sub>
+
 
 
 **Artist:** [The The](#the-the) · **Album:** [NakedSelf](#nakedself)
 
-From The The's 2000 album NakedSelf, "TheWhisperers" is a brooding, atmospheric track that showcases Matt Johnson's gift for combining dark lyrical themes with richly textured arrangements. The song builds slowly through layers of guitar, electronics, and Johnson's deep, insinuating vocal, creating a sense of creeping unease. It reflects the album's themes of paranoia and modern anxiety, wrapped in sophisticated production that blends rock, electronic, and cinematic elements.
+From The The's 2000 album NakedSelf, this track explores themes of injustice, systemic corruption, and alienation. Matt Johnson delivers the song in an eerie, ghostly falsetto — a standout on the album and one of his most haunting vocal performances. The arrangement builds slowly through layers of guitar, electronics, and Johnson's insinuating voice, creating a sense of creeping unease.
+
+NakedSelf was raw and guitar-heavy, a marked departure from the more electronic textures of earlier The The albums. It was released on Trent Reznor's Nothing Records after Sony dropped the project, and featured Johnny Marr alongside Johnson. The album explored themes of paranoia and modern anxiety with a directness that felt almost physical. Johnson — essentially the sole constant in The The — has been one of British music's most uncompromising figures, creating work that combines post-punk, electronic music, blues, and cinematic ambition.
 
 ### This Mess We're In
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← TheWhisperers](#thewhisperers) · [Tom The Model →](#tom-the-model)</sub>
+
 
 
 **Artist:** [PJ Harvey and Thom Yorke](#pj-harvey-and-thom-yorke) · **Album:** [Stories From The City, Stories From The Sea](#stories-from-the-city-stories-from-the-sea)
 
-A duet between PJ Harvey and Radiohead's Thom Yorke from the album Stories From The City, Stories From The Sea, "This Mess We're In" is a beautifully restrained song about connection and intimacy. The two voices intertwine over a gently pulsing arrangement of guitars and subtle electronics, creating a sense of fragile closeness. Set against a New York City backdrop, the song captures a moment of quiet amid chaos, with both singers delivering performances of remarkable tenderness and vulnerability.
+A duet between PJ Harvey and Radiohead's Thom Yorke from Stories From The City, Stories From The Sea. Harvey wrote the song with Yorke's voice specifically in mind; he said yes immediately. Two lovers in a New York hotel room, watching the city at sunrise, an impossible dream of connection. Yorke's wailing falsetto intertwines with Harvey's more measured delivery, creating a sense of fragile closeness.
+
+The irony is rich: Yorke joined Harvey on a relatively conventional love song at the very moment he was dismantling Radiohead's sound with Kid A. The two voices — his ethereal and unmoored, hers grounded and precise — create a dynamic that captures the song's tension between intimacy and transience. Set against a New York City backdrop, it captures a moment of quiet amid chaos, with both singers delivering performances of remarkable tenderness.
 
 ### Tom The Model
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← This Mess We're In](#this-mess-were-in) · [We Float →](#we-float)</sub>
@@ -534,20 +706,24 @@ The lyrics depict the pain of a breakup with extraordinary generosity: "How can 
 This is one of the most important connections in the entire playlist: Talk Talk's bassist Paul Webb (as Rustin Man) working with Portishead's singer Beth Gibbons. The album is largely folk with jazz leanings, drawing on Nina Simone, Billie Holiday, and Nick Drake. It also features contributions from Portishead's Adrian Utley and Webb's former Talk Talk bandmate Lee Harris. Tiny Mix Tapes named it their album of the year for 2002: "I ache with wonder at how an album this good could be made. Nothing, for even a spare moment, sounds as if it has been forced." Released as a single in March 2003, it reached number 70 in the UK.
 
 ### We Float
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← Tom The Model](#tom-the-model) · [White Chalk →](#white-chalk)</sub>
+
 
 
 **Artist:** [PJ Harvey](#pj-harvey) · **Album:** [Stories From The City, Stories From The Sea](#stories-from-the-city-stories-from-the-sea)
 
-From PJ Harvey's 2000 album Stories From The City, Stories From The Sea, "We Float" is a shimmering, dreamlike track that captures the album's themes of love, desire, and the intoxication of New York City. Built on a bed of layered guitars and atmospheric production by Rob Ellis and Mick Harvey, the song features Harvey's voice soaring with an uncharacteristic sense of bliss and abandon. The track's aquatic imagery and floating rhythms create a sense of weightless euphoria.
+From PJ Harvey's 2000 album Stories From The City, Stories From The Sea, a shimmering track of excess, loss, urban danger, and acceptance. The song creates a sense of weightless euphoria — Harvey's voice soaring with an uncharacteristic sense of bliss and abandon. The aquatic imagery and floating rhythms evoke the intoxication of New York City.
+
+The album won the Mercury Prize, with the ceremony falling on September 11, 2001 — Harvey was in Washington DC and witnessed the Pentagon attack. The album captures a very specific moment: an English artist falling in love with New York, writing songs that pulse with the city's energy while maintaining an outsider's wonder. Built on layered guitars and atmospheric production by Rob Ellis and Mick Harvey, it remains one of Harvey's most beloved records.
 
 ### White Chalk
-<sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← We Float](#we-float) · [You May Be Blue →](#you-may-be-blue)</sub>
+
 
 
 **Artist:** [PJ Harvey](#pj-harvey) · **Album:** [White Chalk](#white-chalk-1)
 
-The title track of PJ Harvey's 2007 album, "White Chalk" is a haunting piano ballad that strips away the electric guitars Harvey was known for. Her voice is pitched unnervingly high, almost childlike, as she sings about the white chalk cliffs of Dorset. The song evokes a deep sense of dislocation and longing for home, its sparse arrangement of piano and strings creating an atmosphere of ghostly intimacy. It marked a dramatic departure from Harvey's earlier, more aggressive sound.
+The title track of PJ Harvey's 2007 album, a haunting piano ballad built on fragile, reverberant piano and Harvey's voice pitched unnervingly high — almost childlike. The song evokes the white chalk cliffs of Dorset, Harvey's home landscape, but the lyrics carry a darker undertow: imagery of mortality, an unborn child, blood and heritage. Harvey traded her electric guitar for an out-of-tune piano for this album; recording took place in darkness, echoing the Talk Talk approach to Spirit of Eden.
+
+Harvey is the only artist to have won the Mercury Prize twice. She has reinvented herself with every record — from the raw blues-rock of Dry and Rid of Me through the glam of Stories From The City to the stark piano balladry here to the politically charged Let England Shake. White Chalk marked a dramatic departure, centred on piano rather than guitar, with Harvey singing in an unusually high register. The album evokes the haunted English countryside with a ghostly, unsettling atmosphere, and was critically acclaimed for its bravery and emotional depth.
 
 ### You May Be Blue
 <sub>[↑↑ TOC](#table-of-contents) · [↑ Songs](#songs) · [← White Chalk](#white-chalk)</sub>
